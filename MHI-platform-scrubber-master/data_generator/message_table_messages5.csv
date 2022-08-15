@@ -1,0 +1,1602 @@
+,id,conversation_id,actor_id,type,message
+0,0,0,706292099,1,"Hi Shout, my name is Randall, my grandmother Eric is causing me to feel enraged"
+1,1,1,455368387,1,It is all good
+2,2,2,364548939,1,"Hello there, I am feeling particularly enraged about my current situation in the matrix, I am inquiring if I could get some input or advice with this,
+ thank you, Zachary."
+3,3,3,200751007,1,"Sometimes I think i feel worried, about my friends asking me questions...yeah, i would rather be playing tennis"
+4,4,4,654933352,1,I need some help please
+5,5,5,861782568,1,"Hi there, I am feeling slightly anxious about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you, Lisa."
+6,6,6,062585503,1,I need some words of advice please
+7,7,7,873054483,1,", this is Melissa and this past month has left me feeling slightly anxious in relation to my current predicament with life, I am in need of guidance,
+ thank you."
+8,8,8,228256734,1,"Hi Shout, these last few weeks has left me feeling somewhat heartbroken in relation to my situation at the moment, I am in need of input, 
+ thank you, Michelle."
+9,9,9,798888914,1,"Good afternoon Shout, this is Nina and these last few days has left me feeling pretty somber in relation to my current predicament with friends, I am in need of advice or support,
+ thank you."
+10,10,10,374182248,1,"Derrick here. I am currently feeling slightly anxious. Is there any chance I could get some guidance, 
+ thank you."
+11,11,11,470475114,1,"Hi Shout, my name is Robert, my uncle Mary is causing me to feel stressed"
+12,12,12,222996895,1,"Hi Shout, I am Amy I am feeling a bit upset"
+13,13,13,547555802,1,"Hi Shout, my name is Dennis, my uncle John is causing me to feel agitated"
+14,14,14,477047526,1,", this past month has left me feeling particularly enraged in relation to my situation with life, I am in need of guidance, 
+ thank you, Steven."
+15,15,15,155197732,1,"Hi Shout, my name is Robert, my brother Ashley is causing me to feel angry"
+16,16,16,488229117,1,"Hello there, this week has left me feeling awfully miserable in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Calvin."
+17,17,17,088097820,1,It is all good
+18,18,18,349234029,1,I need some input please
+19,19,19,691063241,1,"Hi Shout, my name is Theresa, my sister Cassidy is causing me to feel glum"
+20,20,20,038923605,1,"Good morning Shout, this last month has left me feeling awfully miserable in relation to my current situ with family, I am in need of support,
+ thank you."
+21,21,21,387157310,1,"Hello there, this week has left me feeling extremely angry in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Henry."
+22,22,22,857321235,1,"Hey there, I am feeling kind of dejected about my current situation with my development as a person, I am wondering if I could get some help or input with this,
+ thank you."
+23,23,23,106701829,1,"Good afternoon Shout, these last few days has left me feeling sort of unhappy in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+24,24,24,510432369,1,"Sometimes I think i feel heartbroken, about my friends asking me questions...yeah, i would rather be playing tennis"
+25,25,25,074984031,1,"Christine here. I am currently feeling extremely angry. Is there any chance I could get some input, 
+ thank you."
+26,26,26,020068450,1,"Good evening Shout, I am feeling seriously agitated about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you, Eric."
+27,27,27,150136899,1,"Hi Shout, my name is Charlene, my son Jasmine is causing me to feel glum"
+28,28,28,009714861,1,"Hi there, I am feeling kind of dejected about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you, Tristan."
+29,29,29,176736237,1,"Hi Shout, I am Paul I am feeling a bit agitated"
+30,30,30,680856700,1,"Hello Shout, I am feeling deeply depressed about my current situation at home, I am inquiring if I could get some help with this,
+ thank you, Mariah."
+31,31,31,533084942,1,"Christopher here. I am currently feeling seriously agitated. Is there any chance I could get some help or input, 
+ thank you."
+32,32,32,160434934,1,"Good evening Shout, this is Kevin and these last few months has left me feeling slightly anxious in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+33,33,33,497230373,1,"Hi Shout, I am Allison I am feeling a bit agitated"
+34,34,34,645525266,1,It is all good
+35,35,35,888476024,1,I need some help or guidance please
+36,36,36,491532238,1,"Good afternoon Shout, this is Nicholas and I am feeling particularly enraged about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+37,37,37,032220509,1,I need some input please
+38,38,38,893799501,1,"Sometimes I think i feel distressed, about my friends asking me questions...yeah, i would rather be playing tennis"
+39,39,39,360170905,1,"I am feeling sort of unhappy right now. Is there any chance I could get some advice or support, 
+ thank you, Lisa."
+40,40,40,645966485,1,", this past month has left me feeling unusually enraged in relation to my current situ with life, I am in need of guidance,
+ thank you."
+41,41,41,077325508,1,It is all good
+42,42,42,541275037,1,"Hi there, I am feeling pretty somber about my current situation with my parents, I am thinking if I could get some help or guidance with this,
+ thank you."
+43,43,43,086613342,1,"Elizabeth here. I am currently feeling extremely angry. Is there any chance I could get some input, 
+ thank you."
+44,44,44,237939700,1,"Adrian here. I am currently feeling a little worried. Is there any chance I could get some advice or support, 
+ thank you."
+45,45,45,520599787,1,I need some help please
+46,46,46,631252906,1,"Hello Shout, I am feeling seriously agitated about my current situation at home, I am thinking if I could get some help with this,
+ thank you."
+47,47,47,118856898,1,It is all good
+48,48,48,003523803,1,"Good afternoon Shout, this is Emma and I am feeling very distressed about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+49,49,49,774333620,1,"Hi Shout, I am Gina I am feeling a bit glum"
+50,50,50,419432834,1,"I am feeling extremely frustrated right now. Is there any chance I could get some support, 
+ thank you, Philip."
+51,51,51,561269381,1,"Hello Shout, this is Destiny and this past week has left me feeling truly bad in relation to my current predicament at home, I am in need of help,
+ thank you."
+52,52,52,801815649,1,"Robert here. I am currently feeling extremely frustrated. Is there any chance I could get some input or advice, 
+ thank you."
+53,53,53,576581821,1,", this past month has left me feeling pretty somber in relation to my current situ with life, I am in need of guidance,
+ thank you."
+54,54,54,000796625,1,", this past month has left me feeling very distressed in relation to my situation with life, I am in need of guidance, 
+ thank you, Katherine."
+55,55,55,688042763,1,"Good afternoon Shout, I am feeling considerably stressed about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you, Jason."
+56,56,56,692401175,1,"Sometimes I think i feel worried, about my friends asking me questions...yeah, i would rather be playing tennis"
+57,57,57,591594108,1,It is all good
+58,58,58,570450197,1,"Hi Shout, my name is Vincent, my cousin David is causing me to feel enraged"
+59,59,59,667252642,1,", this past month has left me feeling reasonably glum in relation to my situation with life, I am in need of guidance, 
+ thank you, Alejandra."
+60,60,60,643137085,1,"Good afternoon Shout, these last few days has left me feeling unusually enraged in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+61,61,61,425197897,1,I need some advice please
+62,62,62,430463938,1,I need some input please
+63,63,63,867283251,1,"Hi Shout, I am Rachel I am feeling a bit miserable"
+64,64,64,657051979,1,It is all good
+65,65,65,332686265,1,"Sometimes I think i feel agitated, about my friends asking me questions...yeah, i would rather be playing tennis"
+66,66,66,877127579,1,"Hello there, this week has left me feeling pretty somber in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+67,67,67,794238808,1,"Hi Shout, my name is Justin, my mother Christian is causing me to feel enraged"
+68,68,68,230958663,1,"Julie here. I am currently feeling reasonably dismal. Is there any chance I could get some advice or support, 
+ thank you."
+69,69,69,605164557,1,It is all good
+70,70,70,813059016,1,"Hi Shout, these last few weeks has left me feeling sort of unhappy in relation to my situation at the moment, I am in need of input, 
+ thank you, John."
+71,71,71,097313302,1,"Hey there, I am feeling slightly anxious about my current situation with my development as a person, I am inquiring if I could get some help or input with this,
+ thank you."
+72,72,72,398618668,1,"Gregory here. I am currently feeling reasonably dismal. Is there any chance I could get some input or advice, 
+ thank you."
+73,73,73,928598470,1,"Hi Shout, I am Emily I am feeling a bit dismal"
+74,74,74,064216324,1,"Hi Shout, I am feeling considerably stressed about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you, Stephanie."
+75,75,75,309074890,1,"Hi Shout, I am Melanie I am feeling a bit glum"
+76,76,76,911431014,1,"Hi Shout, I am Roger I am feeling a bit sad"
+77,77,77,523564773,1,"Amy here. I am currently feeling unusually enraged. Is there any chance I could get some support, 
+ thank you."
+78,78,78,431578370,1,"Hello there, I am feeling truly bad about my current situation in the matrix, I am pondering if I could get some input or advice with this,
+ thank you, James."
+79,79,79,601789537,1,"Hi there, these past few days has left me feeling unusually enraged in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+80,80,80,069344135,1,"Sometimes I think i feel somber, about my friends asking me questions...yeah, i would rather be playing tennis"
+81,81,81,787736447,1,"Hi Shout, my name is Jeffrey, my brother James is causing me to feel dejected"
+82,82,82,217455645,1,"Jonathan here. I am currently feeling particularly enraged. Is there any chance I could get some input or advice, 
+ thank you."
+83,83,83,222944569,1,"Hi Shout, I am Alexandria I am feeling a bit enraged"
+84,84,84,216463132,1,"Good evening Shout, these last few months has left me feeling very distressed in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Scott."
+85,85,85,877515553,1,"Hi there, these past few days has left me feeling reasonably dismal in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, James."
+86,86,86,575884988,1,"Hi Shout, my name is Susan, my uncle Emily is causing me to feel dismal"
+87,87,87,245804289,1,"Henry here. I am currently feeling considerably stressed. Is there any chance I could get some advice, 
+ thank you."
+88,88,88,806720950,1,"Good morning Shout, this last month has left me feeling reasonably dismal in relation to my situation with family, I am in need of support, 
+ thank you, Thomas."
+89,89,89,949652589,1,"Hi there, this is Andrew and these past few days has left me feeling quite upset in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+90,90,90,749479814,1,"Good morning Shout, this last month has left me feeling deeply depressed in relation to my current situ with family, I am in need of support,
+ thank you."
+91,91,91,852701061,1,I need some help or input please
+92,92,92,442648937,1,I need some words of advice please
+93,93,93,200514724,1,"Hi Shout, I am Gregory I am feeling a bit agitated"
+94,94,94,624694131,1,"I am feeling unusually enraged right now. Is there any chance I could get some help or input, 
+ thank you, Roy."
+95,95,95,285782139,1,", this is Stephanie and I am feeling particularly enraged about my current situation with life, I am pondering if I could get some guidance with this,
+ thank you."
+96,96,96,866465873,1,"Hi Shout, my name is Steven, my mother Jason is causing me to feel glum"
+97,97,97,935056406,1,"Hey Shout, this is Helen and this last week has left me feeling particularly enraged in relation to my current predicament at work, I am in need of advice,
+ thank you."
+98,98,98,778242761,1,"Hi Shout, I am Ryan I am feeling a bit anxious"
+99,99,99,212871122,1,"Hi Shout, these last few weeks has left me feeling awfully miserable in relation to my current situ at the moment, I am in need of input,
+ thank you."
+100,100,100,018949372,1,"Good evening Shout, this is Amber and I am feeling quite upset about my current situation with relationship, I am wondering if I could get some words of advice with this,
+ thank you."
+101,101,101,143492425,1,"Good afternoon Shout, these last few days has left me feeling reasonably dismal in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+102,102,102,626445026,1,"Good afternoon Shout, I am feeling fairly sad about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+103,103,103,266851524,1,"Hello there, this is Amber and this week has left me feeling a little worried in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+104,104,104,879927226,1,"Hey there, this month has left me feeling extremely frustrated in relation to my situation with my development as a person, I am in need of help or input, 
+ thank you, Kimberly."
+105,105,105,818459160,1,"Jeremy here. I am currently feeling somewhat heartbroken. Is there any chance I could get some help, 
+ thank you."
+106,106,106,884752756,1,"Good evening Shout, I am feeling slightly anxious about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you, Mark."
+107,107,107,384521729,1,"Hi Shout, this is Julia and I am feeling reasonably glum about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+108,108,108,685662575,1,"Good morning Shout, this last month has left me feeling slightly anxious in relation to my current situ with family, I am in need of support,
+ thank you."
+109,109,109,146106536,1,"Good afternoon Shout, these last few days has left me feeling very distressed in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Rick."
+110,110,110,579079395,1,"Good morning Shout, I am feeling seriously agitated about my current situation with family, I am pondering if I could get some support with this,
+ thank you."
+111,111,111,116401738,1,"Sometimes I think i feel anxious, about my friends asking me questions...yeah, i would rather be playing tennis"
+112,112,112,328662113,1,I need some advice or support please
+113,113,113,919000964,1,"Hi there, I am feeling a little worried about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+114,114,114,427882709,1,"Good morning Shout, this last month has left me feeling seriously agitated in relation to my situation with family, I am in need of support, 
+ thank you, Alec."
+115,115,115,266431735,1,"Good afternoon Shout, these last few days has left me feeling reasonably glum in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+116,116,116,196678560,1,"Hi Shout, I am Jennifer I am feeling a bit depressed"
+117,117,117,938936677,1,"Sometimes I think i feel somber, about my friends asking me questions...yeah, i would rather be playing tennis"
+118,118,118,982180164,1,It is all good
+119,119,119,771056010,1,"Hey Shout, this is Kathleen and I am feeling pretty somber about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+120,120,120,460056328,1,"Hey Shout, this is Cody and I am feeling extremely frustrated about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+121,121,121,438926434,1,"Good evening Shout, I am feeling kind of dejected about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you, Victoria."
+122,122,122,498129149,1,"Hi Shout, I am feeling slightly anxious about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+123,123,123,937107223,1,"Danielle here. I am currently feeling sort of unhappy. Is there any chance I could get some advice, 
+ thank you."
+124,124,124,372034240,1,"I am feeling extremely angry right now. Is there any chance I could get some words of advice, 
+ thank you, Richard."
+125,125,125,431900922,1,I need some support please
+126,126,126,863814092,1,", I am feeling reasonably glum about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+127,127,127,624656271,1,"Daniel here. I am currently feeling quite upset. Is there any chance I could get some input, 
+ thank you."
+128,128,128,723391180,1,"Hi Shout, these last few weeks has left me feeling very distressed in relation to my current situ at the moment, I am in need of input,
+ thank you."
+129,129,129,244091084,1,It is all good
+130,130,130,831129831,1,"Monique here. I am currently feeling truly bad. Is there any chance I could get some advice, 
+ thank you."
+131,131,131,282703052,1,"Hi Shout, I am Michelle I am feeling a bit bad"
+132,132,132,451551949,1,"I am feeling reasonably glum right now. Is there any chance I could get some advice or support, 
+ thank you, James."
+133,133,133,604516610,1,"Good morning Shout, I am feeling truly bad about my current situation with family, I am thinking if I could get some support with this,
+ thank you."
+134,134,134,032525861,1,"Jeffery here. I am currently feeling deeply depressed. Is there any chance I could get some input, 
+ thank you."
+135,135,135,252109420,1,I need some advice please
+136,136,136,518984700,1,"I am feeling slightly anxious right now. Is there any chance I could get some input or advice, 
+ thank you, Elizabeth."
+137,137,137,149155719,1,"Hi Shout, my name is David, my grandfather Joseph is causing me to feel miserable"
+138,138,138,644235482,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+139,139,139,359917992,1,"Hi there, I am feeling pretty somber about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+140,140,140,189034417,1,"Hi Shout, my name is Melissa, my sister Justin is causing me to feel depressed"
+141,141,141,140700813,1,I need some words of advice please
+142,142,142,242287863,1,"Justin here. I am currently feeling extremely frustrated. Is there any chance I could get some support, 
+ thank you."
+143,143,143,728346001,1,"Hi there, these past few days has left me feeling awfully miserable in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+144,144,144,537296486,1,"I am feeling deeply depressed right now. Is there any chance I could get some help or input, 
+ thank you, Joel."
+145,145,145,075247660,1,"Hi Shout, my name is Sandra, my uncle Erica is causing me to feel glum"
+146,146,146,408783378,1,", this is Regina and I am feeling somewhat heartbroken about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+147,147,147,644959512,1,", this past month has left me feeling deeply depressed in relation to my current situ with life, I am in need of guidance,
+ thank you."
+148,148,148,081094247,1,"Hello Shout, this past week has left me feeling a little worried in relation to my current situ at home, I am in need of help,
+ thank you."
+149,149,149,066207979,1,"Hi there, I am feeling considerably stressed about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you."
+150,150,150,297505634,1,"I am feeling kind of dejected right now. Is there any chance I could get some support, 
+ thank you, Deborah."
+151,151,151,579821230,1,"Hi Shout, I am Kathryn I am feeling a bit sad"
+152,152,152,332523536,1,I need some help or guidance please
+153,153,153,783447604,1,I need some support please
+154,154,154,514258831,1,"Sometimes I think i feel worried, about my friends asking me questions...yeah, i would rather be playing tennis"
+155,155,155,052008584,1,"Hey there, this is Justin and I am feeling extremely frustrated about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you."
+156,156,156,130738222,1,"Hi Shout, this is Allen and these last few weeks has left me feeling seriously agitated in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+157,157,157,519617903,1,"Angelica here. I am currently feeling extremely angry. Is there any chance I could get some help, 
+ thank you."
+158,158,158,719347902,1,"Hello there, this week has left me feeling deeply depressed in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Justin."
+159,159,159,470252233,1,"Hi Shout, my name is Robyn, my brother Rachael is causing me to feel sad"
+160,160,160,658923225,1,"Good afternoon Shout, this is Angela and these last few days has left me feeling reasonably dismal in relation to my current predicament with friends, I am in need of advice or support,
+ thank you."
+161,161,161,627247096,1,It is all good
+162,162,162,232002516,1,"Hi Shout, this is Michael and I am feeling sort of unhappy about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+163,163,163,480607512,1,"Sometimes I think i feel somber, about my friends asking me questions...yeah, i would rather be playing tennis"
+164,164,164,180067066,1,"I am feeling slightly anxious right now. Is there any chance I could get some help or input, 
+ thank you, Cristian."
+165,165,165,834050428,1,"Hey Shout, I am feeling unusually enraged about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Christopher."
+166,166,166,466913396,1,"Sometimes I think i feel upset, about my friends asking me questions...yeah, i would rather be playing tennis"
+167,167,167,487553543,1,"Good evening Shout, I am feeling kind of dejected about my current situation with relationship, I am inquiring if I could get some words of advice with this,
+ thank you."
+168,168,168,245880161,1,"Hi Shout, my name is Mary, my uncle Richard is causing me to feel sad"
+169,169,169,039470261,1,"Hi Shout, I am Melissa I am feeling a bit enraged"
+170,170,170,004884065,1,"Good evening Shout, these last few months has left me feeling a little worried in relation to my current situ with relationship, I am in need of words of advice,
+ thank you."
+171,171,171,645336509,1,", I am feeling pretty somber about my current situation with life, I am wondering if I could get some guidance with this,
+ thank you."
+172,172,172,041575072,1,"Hi Shout, I am Philip I am feeling a bit enraged"
+173,173,173,943211209,1,"Hey there, this is Nicholas and I am feeling quite upset about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you."
+174,174,174,744708691,1,"Hi Shout, this is Lauren and these last few weeks has left me feeling truly bad in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+175,175,175,048194268,1,"Good afternoon Shout, this is Edward and I am feeling slightly anxious about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+176,176,176,954939754,1,I need some help please
+177,177,177,864439841,1,It is all good
+178,178,178,676908939,1,"Hi Shout, these last few weeks has left me feeling deeply depressed in relation to my current situ at the moment, I am in need of input,
+ thank you."
+179,179,179,731836889,1,"I am feeling particularly enraged right now. Is there any chance I could get some help or input, 
+ thank you, Denise."
+180,180,180,833346020,1,"Hi Shout, these last few weeks has left me feeling reasonably glum in relation to my situation at the moment, I am in need of input, 
+ thank you, Barbara."
+181,181,181,064830898,1,I need some support please
+182,182,182,453271172,1,I need some help please
+183,183,183,521664170,1,"Sometimes I think i feel dismal, about my friends asking me questions...yeah, i would rather be playing tennis"
+184,184,184,253483639,1,I need some advice or support please
+185,185,185,378120003,1,It is all good
+186,186,186,416438680,1,It is all good
+187,187,187,272230662,1,I need some support please
+188,188,188,847400427,1,"Hi Shout, I am James I am feeling a bit frustrated"
+189,189,189,417341664,1,"Good evening Shout, I am feeling reasonably dismal about my current situation with relationship, I am inquiring if I could get some words of advice with this,
+ thank you, Jimmy."
+190,190,190,290510346,1,", I am feeling extremely frustrated about my current situation with life, I am pondering if I could get some guidance with this,
+ thank you."
+191,191,191,812996407,1,"Hello Shout, this past week has left me feeling reasonably dismal in relation to my situation at home, I am in need of help, 
+ thank you, Sarah."
+192,192,192,364073310,1,"Hi Shout, my name is Robert, my grandmother Luis is causing me to feel miserable"
+193,193,193,968363044,1,"Hey Shout, this is Amy and this last week has left me feeling awfully miserable in relation to my current predicament at work, I am in need of advice,
+ thank you."
+194,194,194,519026121,1,"Hello there, I am feeling extremely angry about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you."
+195,195,195,500900626,1,"Hey there, I am feeling considerably stressed about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you, Raymond."
+196,196,196,536784318,1,It is all good
+197,197,197,533103893,1,"Hi Shout, I am Sarah I am feeling a bit distressed"
+198,198,198,417427498,1,"Hello there, this is Carlos and this week has left me feeling quite upset in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+199,199,199,861002753,1,I need some input please
+200,200,200,005095034,1,"Sometimes I think i feel distressed, about my friends asking me questions...yeah, i would rather be playing tennis"
+201,201,201,016009355,1,"Hi Shout, my name is Michael, my grandmother Sherri is causing me to feel miserable"
+202,202,202,904758071,1,It is all good
+203,203,203,941741562,1,"I am feeling truly bad right now. Is there any chance I could get some input or advice, 
+ thank you, Debbie."
+204,204,204,132254624,1,"Good afternoon Shout, I am feeling quite upset about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+205,205,205,563738451,1,"Hi Shout, these last few weeks has left me feeling extremely angry in relation to my current situ at the moment, I am in need of input,
+ thank you."
+206,206,206,270442989,1,"Hi Shout, my name is Mark, my father Nicholas is causing me to feel agitated"
+207,207,207,556001308,1,"I am feeling awfully miserable right now. Is there any chance I could get some words of advice, 
+ thank you, Cynthia."
+208,208,208,140490172,1,"Hi Shout, my name is Brian, my son Robert is causing me to feel distressed"
+209,209,209,617277429,1,"Tiffany here. I am currently feeling particularly enraged. Is there any chance I could get some advice, 
+ thank you."
+210,210,210,597378690,1,"Hey Shout, this is Elizabeth and I am feeling slightly anxious about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+211,211,211,969342333,1,"Hi Shout, my name is Emily, my brother Kelly is causing me to feel anxious"
+212,212,212,806698114,1,"I am feeling sort of unhappy right now. Is there any chance I could get some help or guidance, 
+ thank you, Timothy."
+213,213,213,819960269,1,"Hi there, these past few days has left me feeling extremely angry in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Alfred."
+214,214,214,150287091,1,"Good afternoon Shout, this is Joseph and these last few days has left me feeling awfully miserable in relation to my current predicament with friends, I am in need of advice or support,
+ thank you."
+215,215,215,827003895,1,I need some help please
+216,216,216,299402082,1,"Sometimes I think i feel frustrated, about my friends asking me questions...yeah, i would rather be playing tennis"
+217,217,217,658366924,1,"Good evening Shout, I am feeling reasonably glum about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you."
+218,218,218,323563345,1,"Hi there, I am feeling fairly sad about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you, Bill."
+219,219,219,130790490,1,"Good morning Shout, this last month has left me feeling truly bad in relation to my situation with family, I am in need of support, 
+ thank you, Ryan."
+220,220,220,334634857,1,"Good morning Shout, this is Michael and this last month has left me feeling unusually enraged in relation to my current predicament with family, I am in need of support,
+ thank you."
+221,221,221,394092656,1,"Hi Shout, I am Robert I am feeling a bit agitated"
+222,222,222,941826407,1,"Hello Shout, I am feeling reasonably glum about my current situation at home, I am inquiring if I could get some help with this,
+ thank you."
+223,223,223,475220264,1,I need some help please
+224,224,224,959623207,1,"I am feeling awfully miserable right now. Is there any chance I could get some guidance, 
+ thank you, Jodi."
+225,225,225,109118117,1,"Hey there, this is Tara and this month has left me feeling reasonably glum in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+226,226,226,348789980,1,"Hey there, this is Anna and this month has left me feeling fairly sad in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+227,227,227,083983873,1,", this is Christopher and this past month has left me feeling particularly enraged in relation to my current predicament with life, I am in need of guidance,
+ thank you."
+228,228,228,091796044,1,It is all good
+229,229,229,518481503,1,"Hi Shout, I am Ashley I am feeling a bit dejected"
+230,230,230,571879296,1,It is all good
+231,231,231,197118781,1,"Sometimes I think i feel miserable, about my friends asking me questions...yeah, i would rather be playing tennis"
+232,232,232,969729662,1,"Sometimes I think i feel stressed, about my friends asking me questions...yeah, i would rather be playing tennis"
+233,233,233,852290191,1,It is all good
+234,234,234,442448757,1,", I am feeling fairly sad about my current situation with life, I am thinking if I could get some guidance with this,
+ thank you, Jennifer."
+235,235,235,180313696,1,"Hello there, this is Megan and I am feeling extremely frustrated about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you."
+236,236,236,360068590,1,I need some words of advice please
+237,237,237,225774711,1,"Hi Shout, my name is Bradley, my cousin George is causing me to feel distressed"
+238,238,238,578289103,1,"Hi Shout, my name is Amanda, my brother Kaitlyn is causing me to feel enraged"
+239,239,239,703913490,1,"Hi Shout, these last few weeks has left me feeling fairly sad in relation to my situation at the moment, I am in need of input, 
+ thank you, Ronald."
+240,240,240,247856798,1,"Amber here. I am currently feeling somewhat heartbroken. Is there any chance I could get some words of advice, 
+ thank you."
+241,241,241,719316336,1,"Hi Shout, my name is Anna, my cousin Stephanie is causing me to feel miserable"
+242,242,242,856388212,1,"Hi Shout, these last few weeks has left me feeling extremely angry in relation to my situation at the moment, I am in need of input, 
+ thank you, Teresa."
+243,243,243,556711644,1,", this past month has left me feeling extremely angry in relation to my current situ with life, I am in need of guidance,
+ thank you."
+244,244,244,206143498,1,It is all good
+245,245,245,240921994,1,"Hello there, this week has left me feeling fairly sad in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+246,246,246,339953822,1,"Good evening Shout, this is Jacob and these last few months has left me feeling reasonably glum in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+247,247,247,565108318,1,"Hi Shout, my name is Laurie, my grandfather Eric is causing me to feel heartbroken"
+248,248,248,816535679,1,"Hi there, I am feeling fairly sad about my current situation with my parents, I am pondering if I could get some help or guidance with this,
+ thank you."
+249,249,249,791643969,1,It is all good
+250,250,250,819778733,1,"Hello there, this is Thomas and this week has left me feeling extremely frustrated in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+251,251,251,630104885,1,"Natalie here. I am currently feeling considerably stressed. Is there any chance I could get some support, 
+ thank you."
+252,252,252,887842270,1,"Hey there, this is Kristen and I am feeling seriously agitated about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you."
+253,253,253,689005226,1,"Good afternoon Shout, this is Patrick and I am feeling somewhat heartbroken about my current situation with friends, I am inquiring if I could get some advice or support with this,
+ thank you."
+254,254,254,427619197,1,It is all good
+255,255,255,964490518,1,"Hi Shout, I am Sara I am feeling a bit miserable"
+256,256,256,786000092,1,"Good afternoon Shout, I am feeling kind of dejected about my current situation with friends, I am inquiring if I could get some advice or support with this,
+ thank you, Tracey."
+257,257,257,194607600,1,It is all good
+258,258,258,085217870,1,"I am feeling very distressed right now. Is there any chance I could get some help or input, 
+ thank you, Tiffany."
+259,259,259,037650910,1,I need some words of advice please
+260,260,260,305343225,1,"Good morning Shout, this last month has left me feeling pretty somber in relation to my current situ with family, I am in need of support,
+ thank you."
+261,261,261,766833922,1,"Hi Shout, my name is Penny, my cousin Randall is causing me to feel upset"
+262,262,262,388928927,1,"Christopher here. I am currently feeling very distressed. Is there any chance I could get some help or input, 
+ thank you."
+263,263,263,277545641,1,"Hi Shout, I am feeling reasonably glum about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you, Michael."
+264,264,264,937246215,1,", I am feeling particularly enraged about my current situation with life, I am pondering if I could get some guidance with this,
+ thank you, Nicholas."
+265,265,265,686327250,1,"Hi Shout, these last few weeks has left me feeling particularly enraged in relation to my situation at the moment, I am in need of input, 
+ thank you, Adam."
+266,266,266,608795809,1,"Hi Shout, I am Allen I am feeling a bit heartbroken"
+267,267,267,538284097,1,"Good afternoon Shout, I am feeling reasonably dismal about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+268,268,268,997535155,1,"Hi Shout, my name is Rebecca, my grandmother Julia is causing me to feel upset"
+269,269,269,562928893,1,"Hello Shout, this is Jacob and I am feeling a little worried about my current situation at home, I am wondering if I could get some help with this,
+ thank you."
+270,270,270,640144053,1,"Hey Shout, this last week has left me feeling extremely frustrated in relation to my current situ at work, I am in need of advice,
+ thank you."
+271,271,271,292113728,1,It is all good
+272,272,272,431715835,1,"Diane here. I am currently feeling slightly anxious. Is there any chance I could get some help or input, 
+ thank you."
+273,273,273,134777811,1,"Hi Shout, my name is Laura, my son Michael is causing me to feel enraged"
+274,274,274,244004154,1,"Hi Shout, I am Chad I am feeling a bit dejected"
+275,275,275,559890415,1,"Hey Shout, this is Jeremiah and I am feeling quite upset about my current situation at work, I am thinking if I could get some advice with this,
+ thank you."
+276,276,276,070278561,1,"Hey Shout, this last week has left me feeling extremely angry in relation to my current situ at work, I am in need of advice,
+ thank you."
+277,277,277,372245432,1,"Hey there, this is Jessica and this month has left me feeling kind of dejected in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+278,278,278,517963321,1,I need some advice please
+279,279,279,212804908,1,"Hi there, this is Ronald and these past few days has left me feeling seriously agitated in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+280,280,280,201119587,1,"Hi Shout, my name is Paul, my uncle Maria is causing me to feel frustrated"
+281,281,281,566005285,1,"Kimberly here. I am currently feeling awfully miserable. Is there any chance I could get some help or guidance, 
+ thank you."
+282,282,282,484113362,1,"Hello there, I am feeling truly bad about my current situation in the matrix, I am pondering if I could get some input or advice with this,
+ thank you."
+283,283,283,848857707,1,"Sometimes I think i feel miserable, about my friends asking me questions...yeah, i would rather be playing tennis"
+284,284,284,722635827,1,"Melinda here. I am currently feeling quite upset. Is there any chance I could get some help, 
+ thank you."
+285,285,285,943270075,1,It is all good
+286,286,286,775007088,1,"Hey there, I am feeling truly bad about my current situation with my development as a person, I am wondering if I could get some help or input with this,
+ thank you."
+287,287,287,241152616,1,"Sometimes I think i feel anxious, about my friends asking me questions...yeah, i would rather be playing tennis"
+288,288,288,480731962,1,"Hi Shout, I am Tanya I am feeling a bit sad"
+289,289,289,692114576,1,"Hi there, these past few days has left me feeling seriously agitated in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Steven."
+290,290,290,685694648,1,"I am feeling extremely frustrated right now. Is there any chance I could get some input, 
+ thank you, Austin."
+291,291,291,488001327,1,"Hi Shout, these last few weeks has left me feeling extremely frustrated in relation to my situation at the moment, I am in need of input, 
+ thank you, Kevin."
+292,292,292,858723999,1,", this past month has left me feeling considerably stressed in relation to my situation with life, I am in need of guidance, 
+ thank you, Kristin."
+293,293,293,041960323,1,"I am feeling awfully miserable right now. Is there any chance I could get some support, 
+ thank you, Janet."
+294,294,294,145687726,1,"Good evening Shout, these last few months has left me feeling considerably stressed in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Steven."
+295,295,295,396179616,1,"Matthew here. I am currently feeling seriously agitated. Is there any chance I could get some help or guidance, 
+ thank you."
+296,296,296,017494031,1,"Sometimes I think i feel anxious, about my friends asking me questions...yeah, i would rather be playing tennis"
+297,297,297,872037744,1,"Hello Shout, this is Melinda and I am feeling deeply depressed about my current situation at home, I am thinking if I could get some help with this,
+ thank you."
+298,298,298,529680164,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+299,299,299,844289692,1,I need some input please
+300,300,300,689089601,1,"Hi Shout, these last few weeks has left me feeling quite upset in relation to my current situ at the moment, I am in need of input,
+ thank you."
+301,301,301,662552392,1,"Sometimes I think i feel sad, about my friends asking me questions...yeah, i would rather be playing tennis"
+302,302,302,055178260,1,"Hello Shout, this past week has left me feeling reasonably glum in relation to my situation at home, I am in need of help, 
+ thank you, Tara."
+303,303,303,141935804,1,"Jacob here. I am currently feeling quite upset. Is there any chance I could get some advice or support, 
+ thank you."
+304,304,304,115202774,1,"Hi Shout, my name is Kimberly, my sister Stephanie is causing me to feel angry"
+305,305,305,121270127,1,"Dylan here. I am currently feeling considerably stressed. Is there any chance I could get some advice, 
+ thank you."
+306,306,306,229204822,1,"Hi there, this is Clifford and I am feeling particularly enraged about my current situation with my parents, I am pondering if I could get some help or guidance with this,
+ thank you."
+307,307,307,588755427,1,"Hi Shout, these last few weeks has left me feeling very distressed in relation to my situation at the moment, I am in need of input, 
+ thank you, Joan."
+308,308,308,123934106,1,"Hi Shout, I am Corey I am feeling a bit depressed"
+309,309,309,872409954,1,"Hi Shout, this is Emily and these last few weeks has left me feeling unusually enraged in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+310,310,310,598738395,1,"Hey Shout, this is Morgan and this last week has left me feeling somewhat heartbroken in relation to my current predicament at work, I am in need of advice,
+ thank you."
+311,311,311,426060479,1,"Hi there, I am feeling extremely angry about my current situation with my parents, I am pondering if I could get some help or guidance with this,
+ thank you, Emily."
+312,312,312,309209763,1,"I am feeling quite upset right now. Is there any chance I could get some words of advice, 
+ thank you, Louis."
+313,313,313,079584571,1,"Anthony here. I am currently feeling slightly anxious. Is there any chance I could get some input or advice, 
+ thank you."
+314,314,314,202734555,1,"Jacqueline here. I am currently feeling very distressed. Is there any chance I could get some help or guidance, 
+ thank you."
+315,315,315,289355842,1,"John here. I am currently feeling sort of unhappy. Is there any chance I could get some advice or support, 
+ thank you."
+316,316,316,615077602,1,"I am feeling fairly sad right now. Is there any chance I could get some guidance, 
+ thank you, Lisa."
+317,317,317,571003760,1,"I am feeling particularly enraged right now. Is there any chance I could get some support, 
+ thank you, Shannon."
+318,318,318,139433954,1,"Good afternoon Shout, this is Molly and I am feeling pretty somber about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+319,319,319,924077190,1,"Good evening Shout, these last few months has left me feeling quite upset in relation to my current situ with relationship, I am in need of words of advice,
+ thank you."
+320,320,320,241646836,1,"Good morning Shout, I am feeling reasonably dismal about my current situation with family, I am inquiring if I could get some support with this,
+ thank you, Ariel."
+321,321,321,293883048,1,"Hi Shout, I am Rebecca I am feeling a bit heartbroken"
+322,322,322,006246624,1,"Hi Shout, my name is Monique, my cousin Amanda is causing me to feel unhappy"
+323,323,323,917113581,1,"Hi Shout, I am Tina I am feeling a bit dismal"
+324,324,324,151776181,1,"Hey Shout, this is Keith and I am feeling fairly sad about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+325,325,325,913118157,1,"Sometimes I think i feel unhappy, about my friends asking me questions...yeah, i would rather be playing tennis"
+326,326,326,837870294,1,"I am feeling kind of dejected right now. Is there any chance I could get some help or guidance, 
+ thank you, Eric."
+327,327,327,799864650,1,It is all good
+328,328,328,069802271,1,"Hi Shout, my name is Heidi, my brother Angela is causing me to feel enraged"
+329,329,329,916115276,1,"Hi Shout, I am Christopher I am feeling a bit bad"
+330,330,330,173939704,1,", this past month has left me feeling a little worried in relation to my situation with life, I am in need of guidance, 
+ thank you, Rose."
+331,331,331,661946565,1,"Good morning Shout, this is Samuel and this last month has left me feeling slightly anxious in relation to my current predicament with family, I am in need of support,
+ thank you."
+332,332,332,183388062,1,"Hello there, I am feeling quite upset about my current situation in the matrix, I am inquiring if I could get some input or advice with this,
+ thank you, Kathryn."
+333,333,333,394643600,1,"Hi Shout, I am Bradley I am feeling a bit distressed"
+334,334,334,089111767,1,"Good afternoon Shout, these last few days has left me feeling fairly sad in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+335,335,335,256662377,1,"Hi Shout, I am Crystal I am feeling a bit anxious"
+336,336,336,538964968,1,"Good afternoon Shout, I am feeling seriously agitated about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+337,337,337,197855900,1,"Hi Shout, I am Darrell I am feeling a bit enraged"
+338,338,338,041713581,1,"Hi Shout, my name is April, my aunt Jonathan is causing me to feel frustrated"
+339,339,339,167952773,1,"Good morning Shout, this last month has left me feeling extremely angry in relation to my situation with family, I am in need of support, 
+ thank you, Ebony."
+340,340,340,598152182,1,"Hi Shout, my name is Stephanie, my cousin Misty is causing me to feel depressed"
+341,341,341,378260205,1,"Hi Shout, my name is Darrell, my mother Gregory is causing me to feel frustrated"
+342,342,342,843695859,1,"Hey Shout, I am feeling pretty somber about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+343,343,343,798744718,1,"Hi Shout, my name is Carol, my aunt Jason is causing me to feel anxious"
+344,344,344,958724951,1,"Hello there, this week has left me feeling reasonably dismal in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Jennifer."
+345,345,345,388472129,1,I need some support please
+346,346,346,544094591,1,I need some input please
+347,347,347,805181198,1,"David here. I am currently feeling particularly enraged. Is there any chance I could get some advice, 
+ thank you."
+348,348,348,330820135,1,"Sometimes I think i feel somber, about my friends asking me questions...yeah, i would rather be playing tennis"
+349,349,349,165246955,1,"Hi Shout, I am Stephanie I am feeling a bit agitated"
+350,350,350,421000895,1,"Hi Shout, my name is Jerome, my sister Robert is causing me to feel frustrated"
+351,351,351,182963053,1,"Hi Shout, my name is Timothy, my sister Frank is causing me to feel distressed"
+352,352,352,390082605,1,"Hi Shout, I am Lawrence I am feeling a bit stressed"
+353,353,353,966913582,1,I need some help or guidance please
+354,354,354,288935040,1,"Hey there, I am feeling extremely frustrated about my current situation with my development as a person, I am inquiring if I could get some help or input with this,
+ thank you."
+355,355,355,501874132,1,"Hi there, these past few days has left me feeling somewhat heartbroken in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Derek."
+356,356,356,660984826,1,"Good afternoon Shout, I am feeling kind of dejected about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you, Stacey."
+357,357,357,864552253,1,It is all good
+358,358,358,630039919,1,"Christine here. I am currently feeling a little worried. Is there any chance I could get some help, 
+ thank you."
+359,359,359,745800011,1,"Hi Shout, my name is Kimberly, my brother Stephen is causing me to feel worried"
+360,360,360,370186983,1,"Hi there, this is Sabrina and these past few days has left me feeling very distressed in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+361,361,361,834299767,1,"Hi Shout, my name is Bradley, my grandfather Jennifer is causing me to feel sad"
+362,362,362,801168426,1,"Hi Shout, I am Tyler I am feeling a bit enraged"
+363,363,363,601366421,1,"Good morning Shout, I am feeling particularly enraged about my current situation with family, I am inquiring if I could get some support with this,
+ thank you, Timothy."
+364,364,364,982808359,1,"Hi there, these past few days has left me feeling quite upset in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+365,365,365,119168225,1,"Good afternoon Shout, these last few days has left me feeling considerably stressed in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Michael."
+366,366,366,991892150,1,"Good afternoon Shout, I am feeling considerably stressed about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+367,367,367,181318160,1,I need some input please
+368,368,368,185130290,1,"Good evening Shout, these last few months has left me feeling particularly enraged in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Alfred."
+369,369,369,055356477,1,"Hey Shout, this last week has left me feeling pretty somber in relation to my current situ at work, I am in need of advice,
+ thank you."
+370,370,370,998867747,1,"Hi Shout, my name is Eric, my aunt Nathan is causing me to feel depressed"
+371,371,371,501742482,1,"Jasmin here. I am currently feeling slightly anxious. Is there any chance I could get some support, 
+ thank you."
+372,372,372,543670803,1,"Hello Shout, this is Angela and this past week has left me feeling reasonably glum in relation to my current predicament at home, I am in need of help,
+ thank you."
+373,373,373,514948367,1,"Good morning Shout, I am feeling quite upset about my current situation with family, I am inquiring if I could get some support with this,
+ thank you."
+374,374,374,425247587,1,"Hi Shout, I am Julie I am feeling a bit sad"
+375,375,375,433167561,1,"I am feeling extremely frustrated right now. Is there any chance I could get some help or input, 
+ thank you, Laura."
+376,376,376,326762432,1,"Hello Shout, this is Richard and I am feeling deeply depressed about my current situation at home, I am pondering if I could get some help with this,
+ thank you."
+377,377,377,185817379,1,"Hi Shout, I am feeling pretty somber about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you."
+378,378,378,272186966,1,"Good morning Shout, I am feeling deeply depressed about my current situation with family, I am wondering if I could get some support with this,
+ thank you, Erin."
+379,379,379,160577643,1,"Hi Shout, I am Mary I am feeling a bit upset"
+380,380,380,386045764,1,"Hello there, this week has left me feeling awfully miserable in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+381,381,381,735190200,1,"Mary here. I am currently feeling awfully miserable. Is there any chance I could get some advice or support, 
+ thank you."
+382,382,382,084398157,1,"Hello there, this is Jason and this week has left me feeling deeply depressed in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+383,383,383,789864998,1,"Hi Shout, I am Lawrence I am feeling a bit dejected"
+384,384,384,817111759,1,"I am feeling pretty somber right now. Is there any chance I could get some help or guidance, 
+ thank you, Katie."
+385,385,385,267454467,1,"Hey Shout, I am feeling sort of unhappy about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+386,386,386,959243240,1,"Hi Shout, I am Tyrone I am feeling a bit stressed"
+387,387,387,216393401,1,"Hey Shout, this is Ian and I am feeling somewhat heartbroken about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+388,388,388,093950613,1,"Hey there, I am feeling reasonably glum about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you, Francis."
+389,389,389,210427008,1,"Good afternoon Shout, these last few days has left me feeling truly bad in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Laura."
+390,390,390,048160603,1,"Good afternoon Shout, I am feeling reasonably dismal about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+391,391,391,977924958,1,"Hey there, this is Isaiah and I am feeling unusually enraged about my current situation with my development as a person, I am inquiring if I could get some help or input with this,
+ thank you."
+392,392,392,982729337,1,"Hello there, this week has left me feeling reasonably dismal in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Tracy."
+393,393,393,693185102,1,"Hi Shout, my name is Katrina, my uncle Sandra is causing me to feel frustrated"
+394,394,394,986873441,1,I need some help or input please
+395,395,395,156117177,1,"Hello there, I am feeling quite upset about my current situation in the matrix, I am pondering if I could get some input or advice with this,
+ thank you, Cesar."
+396,396,396,342746477,1,"Adam here. I am currently feeling kind of dejected. Is there any chance I could get some help or input, 
+ thank you."
+397,397,397,840897140,1,"Hi Shout, my name is Andrew, my grandfather Christopher is causing me to feel heartbroken"
+398,398,398,451822477,1,"Hi Shout, this is Sean and I am feeling reasonably glum about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you."
+399,399,399,236910558,1,"Good afternoon Shout, I am feeling deeply depressed about my current situation with friends, I am pondering if I could get some advice or support with this,
+ thank you."
+400,400,400,354612660,1,"I am feeling extremely angry right now. Is there any chance I could get some advice, 
+ thank you, Patrick."
+401,401,401,329803681,1,"Alan here. I am currently feeling awfully miserable. Is there any chance I could get some help or input, 
+ thank you."
+402,402,402,769748925,1,"Good morning Shout, this is Brittany and I am feeling deeply depressed about my current situation with family, I am inquiring if I could get some support with this,
+ thank you."
+403,403,403,109519708,1,"Hello there, I am feeling extremely frustrated about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you."
+404,404,404,866957260,1,"Good evening Shout, this is Jennifer and I am feeling sort of unhappy about my current situation with relationship, I am wondering if I could get some words of advice with this,
+ thank you."
+405,405,405,657567820,1,"Good evening Shout, these last few months has left me feeling awfully miserable in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Kyle."
+406,406,406,304547819,1,"Hello there, this is Thomas and this week has left me feeling considerably stressed in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+407,407,407,774392948,1,I need some help or guidance please
+408,408,408,900034758,1,"Good morning Shout, I am feeling quite upset about my current situation with family, I am thinking if I could get some support with this,
+ thank you, Nicole."
+409,409,409,711871338,1,"Hey there, this is Nancy and this month has left me feeling very distressed in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+410,410,410,580963511,1,"I am feeling sort of unhappy right now. Is there any chance I could get some support, 
+ thank you, Thomas."
+411,411,411,193167308,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+412,412,412,840947102,1,It is all good
+413,413,413,230557527,1,"Hey there, this month has left me feeling considerably stressed in relation to my situation with my development as a person, I am in need of help or input, 
+ thank you, Kristi."
+414,414,414,409310491,1,It is all good
+415,415,415,727938321,1,"Good afternoon Shout, I am feeling seriously agitated about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+416,416,416,493554414,1,"Hey there, this is Amanda and I am feeling very distressed about my current situation with my development as a person, I am inquiring if I could get some help or input with this,
+ thank you."
+417,417,417,530044293,1,I need some support please
+418,418,418,294283726,1,It is all good
+419,419,419,974666842,1,", I am feeling seriously agitated about my current situation with life, I am thinking if I could get some guidance with this,
+ thank you."
+420,420,420,721129340,1,"Good afternoon Shout, I am feeling reasonably dismal about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you, Jerome."
+421,421,421,385215969,1,"Hi Shout, I am feeling reasonably glum about my current situation at the moment, I am inquiring if I could get some input with this,
+ thank you."
+422,422,422,512935899,1,"Hello there, I am feeling reasonably glum about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you, Brandon."
+423,423,423,854075490,1,"Good evening Shout, this is Matthew and these last few months has left me feeling quite upset in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+424,424,424,819302619,1,"Hi Shout, my name is Ryan, my aunt Seth is causing me to feel worried"
+425,425,425,556348509,1,"Hi Shout, I am Maria I am feeling a bit enraged"
+426,426,426,472271346,1,"Hello there, I am feeling extremely angry about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you, Theresa."
+427,427,427,577361726,1,I need some words of advice please
+428,428,428,643722070,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+429,429,429,566038674,1,"Hi Shout, these last few weeks has left me feeling slightly anxious in relation to my current situ at the moment, I am in need of input,
+ thank you."
+430,430,430,621808871,1,", this past month has left me feeling kind of dejected in relation to my situation with life, I am in need of guidance, 
+ thank you, Ashley."
+431,431,431,410937249,1,"Hey Shout, I am feeling extremely frustrated about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Cassidy."
+432,432,432,776706199,1,I need some help or input please
+433,433,433,319866181,1,"Sometimes I think i feel bad, about my friends asking me questions...yeah, i would rather be playing tennis"
+434,434,434,274498198,1,"Sometimes I think i feel miserable, about my friends asking me questions...yeah, i would rather be playing tennis"
+435,435,435,802132316,1,I need some words of advice please
+436,436,436,946774177,1,"Shelly here. I am currently feeling extremely angry. Is there any chance I could get some words of advice, 
+ thank you."
+437,437,437,871516025,1,"Katherine here. I am currently feeling slightly anxious. Is there any chance I could get some help, 
+ thank you."
+438,438,438,227035258,1,"Hi Shout, I am feeling deeply depressed about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you, Derek."
+439,439,439,629109292,1,"Hi Shout, my name is Amy, my sister Samantha is causing me to feel enraged"
+440,440,440,676243526,1,"Hi Shout, I am Samantha I am feeling a bit depressed"
+441,441,441,280775997,1,I need some support please
+442,442,442,191705887,1,I need some guidance please
+443,443,443,833888545,1,"Hello there, this is Paul and I am feeling slightly anxious about my current situation in the matrix, I am inquiring if I could get some input or advice with this,
+ thank you."
+444,444,444,031484961,1,"Sometimes I think i feel heartbroken, about my friends asking me questions...yeah, i would rather be playing tennis"
+445,445,445,477369187,1,"Andrew here. I am currently feeling pretty somber. Is there any chance I could get some help or guidance, 
+ thank you."
+446,446,446,304124547,1,"Hi Shout, I am Lindsay I am feeling a bit anxious"
+447,447,447,573836372,1,I need some support please
+448,448,448,606728642,1,"Hi Shout, my name is Angela, my aunt James is causing me to feel dismal"
+449,449,449,057999547,1,"Hi Shout, I am Kelly I am feeling a bit dejected"
+450,450,450,119044377,1,"Hey there, this is Anthony and this month has left me feeling seriously agitated in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+451,451,451,469363877,1,"Hey Shout, I am feeling reasonably glum about my current situation at work, I am thinking if I could get some advice with this,
+ thank you, Jay."
+452,452,452,980350411,1,"Good afternoon Shout, this is Kenneth and these last few days has left me feeling extremely frustrated in relation to my current predicament with friends, I am in need of advice or support,
+ thank you."
+453,453,453,662935057,1,"Hello there, this is Heather and this week has left me feeling extremely angry in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+454,454,454,465608374,1,"Hi Shout, I am Henry I am feeling a bit enraged"
+455,455,455,393592962,1,"Hi Shout, I am Sarah I am feeling a bit unhappy"
+456,456,456,114528075,1,"Hi Shout, my name is Heather, my sister Lori is causing me to feel angry"
+457,457,457,951283285,1,"Hey Shout, this last week has left me feeling somewhat heartbroken in relation to my current situ at work, I am in need of advice,
+ thank you."
+458,458,458,116347388,1,"Hi Shout, this is Jason and these last few weeks has left me feeling quite upset in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+459,459,459,077895355,1,"Cole here. I am currently feeling quite upset. Is there any chance I could get some help or input, 
+ thank you."
+460,460,460,392563479,1,"Hi there, these past few days has left me feeling extremely angry in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Haley."
+461,461,461,141774691,1,It is all good
+462,462,462,267895952,1,I need some input or advice please
+463,463,463,693504768,1,", this is Adam and this past month has left me feeling reasonably glum in relation to my current predicament with life, I am in need of guidance,
+ thank you."
+464,464,464,013636042,1,"Hello Shout, this past week has left me feeling a little worried in relation to my situation at home, I am in need of help, 
+ thank you, Nicole."
+465,465,465,811003420,1,"Hi Shout, this is Larry and I am feeling truly bad about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you."
+466,466,466,050801825,1,"Hi Shout, I am Sheila I am feeling a bit somber"
+467,467,467,929564698,1,"I am feeling kind of dejected right now. Is there any chance I could get some advice, 
+ thank you, Amy."
+468,468,468,166604688,1,I need some input or advice please
+469,469,469,904696682,1,"Jim here. I am currently feeling unusually enraged. Is there any chance I could get some help or input, 
+ thank you."
+470,470,470,613184565,1,"I am feeling reasonably dismal right now. Is there any chance I could get some support, 
+ thank you, Julie."
+471,471,471,695457729,1,"Hello Shout, I am feeling fairly sad about my current situation at home, I am inquiring if I could get some help with this,
+ thank you, Nicole."
+472,472,472,306769403,1,"Hi Shout, my name is Paige, my grandfather Amy is causing me to feel upset"
+473,473,473,767964103,1,"Hi Shout, I am Robert I am feeling a bit bad"
+474,474,474,882030028,1,"Hey Shout, this is Alex and this last week has left me feeling extremely frustrated in relation to my current predicament at work, I am in need of advice,
+ thank you."
+475,475,475,059927041,1,"Hey there, I am feeling particularly enraged about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you."
+476,476,476,197912975,1,"Hey Shout, this is Melissa and this last week has left me feeling particularly enraged in relation to my current predicament at work, I am in need of advice,
+ thank you."
+477,477,477,071092357,1,"Hello Shout, this past week has left me feeling particularly enraged in relation to my situation at home, I am in need of help, 
+ thank you, Mark."
+478,478,478,228997590,1,"Hey Shout, I am feeling slightly anxious about my current situation at work, I am inquiring if I could get some advice with this,
+ thank you, Tracy."
+479,479,479,467825074,1,"Good afternoon Shout, these last few days has left me feeling reasonably dismal in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+480,480,480,162597524,1,"Hi Shout, my name is Ashley, my grandmother Matthew is causing me to feel glum"
+481,481,481,569181441,1,"Hey Shout, I am feeling particularly enraged about my current situation at work, I am inquiring if I could get some advice with this,
+ thank you, Anthony."
+482,482,482,272314693,1,"Sometimes I think i feel frustrated, about my friends asking me questions...yeah, i would rather be playing tennis"
+483,483,483,175196935,1,", this is Debra and I am feeling extremely frustrated about my current situation with life, I am thinking if I could get some guidance with this,
+ thank you."
+484,484,484,844195122,1,"Hi Shout, my name is Thomas, my grandmother Michael is causing me to feel agitated"
+485,485,485,331429957,1,"Hey Shout, I am feeling quite upset about my current situation at work, I am thinking if I could get some advice with this,
+ thank you."
+486,486,486,124324145,1,"Hello there, this week has left me feeling particularly enraged in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Danielle."
+487,487,487,010575138,1,"Hey there, this month has left me feeling very distressed in relation to my situation with my development as a person, I am in need of help or input, 
+ thank you, Sophia."
+488,488,488,686007042,1,"Morgan here. I am currently feeling somewhat heartbroken. Is there any chance I could get some advice, 
+ thank you."
+489,489,489,365122393,1,"Hi Shout, I am Anthony I am feeling a bit enraged"
+490,490,490,350247074,1,"Good afternoon Shout, this is Leslie and I am feeling reasonably glum about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+491,491,491,366369087,1,"Hi there, these past few days has left me feeling quite upset in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+492,492,492,428378440,1,It is all good
+493,493,493,953020946,1,"Ryan here. I am currently feeling somewhat heartbroken. Is there any chance I could get some help or input, 
+ thank you."
+494,494,494,591500755,1,It is all good
+495,495,495,721801794,1,"I am feeling very distressed right now. Is there any chance I could get some support, 
+ thank you, Karen."
+496,496,496,861042097,1,"Hi Shout, I am John I am feeling a bit frustrated"
+497,497,497,780066839,1,"Hi Shout, these last few weeks has left me feeling very distressed in relation to my current situ at the moment, I am in need of input,
+ thank you."
+498,498,498,686714397,1,"Hi there, I am feeling kind of dejected about my current situation with my parents, I am pondering if I could get some help or guidance with this,
+ thank you, Amanda."
+499,499,499,682220827,1,"Hey there, I am feeling deeply depressed about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you."
+500,500,500,759081051,1,"Hey there, I am feeling kind of dejected about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you."
+501,501,501,022716811,1,"Hi Shout, I am Corey I am feeling a bit dismal"
+502,502,502,935734176,1,"David here. I am currently feeling particularly enraged. Is there any chance I could get some input or advice, 
+ thank you."
+503,503,503,172544503,1,"I am feeling a little worried right now. Is there any chance I could get some support, 
+ thank you, Jennifer."
+504,504,504,773098028,1,", this is Shannon and this past month has left me feeling extremely angry in relation to my current predicament with life, I am in need of guidance,
+ thank you."
+505,505,505,837954355,1,"Good evening Shout, I am feeling pretty somber about my current situation with relationship, I am pondering if I could get some words of advice with this,
+ thank you, George."
+506,506,506,801835303,1,It is all good
+507,507,507,810517059,1,"Hey Shout, this last week has left me feeling fairly sad in relation to my situation at work, I am in need of advice, 
+ thank you, Ashley."
+508,508,508,877843136,1,"Good morning Shout, this is Angela and this last month has left me feeling considerably stressed in relation to my current predicament with family, I am in need of support,
+ thank you."
+509,509,509,970038485,1,"Hey Shout, I am feeling slightly anxious about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Kenneth."
+510,510,510,390640049,1,"Hi Shout, I am Jessica I am feeling a bit dejected"
+511,511,511,776781316,1,", this past month has left me feeling reasonably glum in relation to my situation with life, I am in need of guidance, 
+ thank you, Joseph."
+512,512,512,986120532,1,"Hi Shout, my name is Carl, my aunt Stephanie is causing me to feel sad"
+513,513,513,947411100,1,I need some words of advice please
+514,514,514,222898417,1,"Mark here. I am currently feeling truly bad. Is there any chance I could get some words of advice, 
+ thank you."
+515,515,515,044083002,1,"Good afternoon Shout, these last few days has left me feeling very distressed in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+516,516,516,362850272,1,"Hello there, I am feeling truly bad about my current situation in the matrix, I am pondering if I could get some input or advice with this,
+ thank you, Philip."
+517,517,517,107374408,1,"Hi Shout, these last few weeks has left me feeling somewhat heartbroken in relation to my current situ at the moment, I am in need of input,
+ thank you."
+518,518,518,622972239,1,It is all good
+519,519,519,984686033,1,"Hello Shout, this past week has left me feeling unusually enraged in relation to my current situ at home, I am in need of help,
+ thank you."
+520,520,520,179806398,1,"Hi Shout, I am Christopher I am feeling a bit heartbroken"
+521,521,521,764479923,1,"I am feeling unusually enraged right now. Is there any chance I could get some advice or support, 
+ thank you, Jenna."
+522,522,522,933236738,1,", I am feeling reasonably dismal about my current situation with life, I am wondering if I could get some guidance with this,
+ thank you, Nicole."
+523,523,523,164973793,1,"Hi Shout, my name is Jason, my brother Adrienne is causing me to feel depressed"
+524,524,524,716195676,1,"Hey there, I am feeling reasonably glum about my current situation with my development as a person, I am wondering if I could get some help or input with this,
+ thank you, Gary."
+525,525,525,000066839,1,"I am feeling pretty somber right now. Is there any chance I could get some help or guidance, 
+ thank you, Carol."
+526,526,526,584086677,1,"Hi Shout, this is Jennifer and I am feeling awfully miserable about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+527,527,527,026900038,1,"Sometimes I think i feel worried, about my friends asking me questions...yeah, i would rather be playing tennis"
+528,528,528,643908699,1,"Good afternoon Shout, this is Robert and I am feeling pretty somber about my current situation with friends, I am inquiring if I could get some advice or support with this,
+ thank you."
+529,529,529,093667043,1,"Hi Shout, my name is Adam, my brother Jeffrey is causing me to feel worried"
+530,530,530,692881861,1,"Sometimes I think i feel worried, about my friends asking me questions...yeah, i would rather be playing tennis"
+531,531,531,049537336,1,"Hi Shout, my name is Crystal, my grandmother Heather is causing me to feel angry"
+532,532,532,337004238,1,"Susan here. I am currently feeling seriously agitated. Is there any chance I could get some help or input, 
+ thank you."
+533,533,533,599737420,1,"Carlos here. I am currently feeling extremely frustrated. Is there any chance I could get some support, 
+ thank you."
+534,534,534,750061049,1,", this is Richard and I am feeling kind of dejected about my current situation with life, I am pondering if I could get some guidance with this,
+ thank you."
+535,535,535,429825465,1,"I am feeling seriously agitated right now. Is there any chance I could get some input, 
+ thank you, Bruce."
+536,536,536,768638271,1,"Hi there, this is Nicholas and I am feeling extremely frustrated about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+537,537,537,316836474,1,"Good evening Shout, these last few months has left me feeling very distressed in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Krystal."
+538,538,538,509989308,1,I need some support please
+539,539,539,507468440,1,"Sometimes I think i feel unhappy, about my friends asking me questions...yeah, i would rather be playing tennis"
+540,540,540,768383922,1,"Hi Shout, I am Daniel I am feeling a bit upset"
+541,541,541,608801413,1,"Hi Shout, this is Krystal and these last few weeks has left me feeling fairly sad in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+542,542,542,252808924,1,"Good afternoon Shout, these last few days has left me feeling extremely frustrated in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Barbara."
+543,543,543,956572573,1,"Hi Shout, I am Paul I am feeling a bit anxious"
+544,544,544,717140226,1,"Hector here. I am currently feeling fairly sad. Is there any chance I could get some input or advice, 
+ thank you."
+545,545,545,881487163,1,"I am feeling somewhat heartbroken right now. Is there any chance I could get some advice or support, 
+ thank you, Crystal."
+546,546,546,288509676,1,"Hello Shout, this is Ashley and I am feeling reasonably glum about my current situation at home, I am inquiring if I could get some help with this,
+ thank you."
+547,547,547,137726481,1,"Sometimes I think i feel dejected, about my friends asking me questions...yeah, i would rather be playing tennis"
+548,548,548,873068306,1,"Hi Shout, I am Patricia I am feeling a bit heartbroken"
+549,549,549,491981179,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+550,550,550,751702270,1,I need some advice or support please
+551,551,551,089213112,1,"Hi Shout, my name is Michael, my mother Jeffrey is causing me to feel stressed"
+552,552,552,959528511,1,It is all good
+553,553,553,178112598,1,"Elizabeth here. I am currently feeling extremely frustrated. Is there any chance I could get some input, 
+ thank you."
+554,554,554,168989798,1,"Hi Shout, my name is Tiffany, my mother David is causing me to feel unhappy"
+555,555,555,938692770,1,"Hey Shout, this last week has left me feeling fairly sad in relation to my situation at work, I am in need of advice, 
+ thank you, Edward."
+556,556,556,579279083,1,"Hello there, this is Charlotte and I am feeling slightly anxious about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you."
+557,557,557,914535975,1,"I am feeling reasonably dismal right now. Is there any chance I could get some input, 
+ thank you, Troy."
+558,558,558,497635849,1,"Sometimes I think i feel sad, about my friends asking me questions...yeah, i would rather be playing tennis"
+559,559,559,034261481,1,I need some help or input please
+560,560,560,964402926,1,"Hi Shout, my name is Robert, my son Jodi is causing me to feel sad"
+561,561,561,693073831,1,", this past month has left me feeling particularly enraged in relation to my current situ with life, I am in need of guidance,
+ thank you."
+562,562,562,567719988,1,I need some words of advice please
+563,563,563,027736123,1,"Hi Shout, my name is Sherry, my son Danielle is causing me to feel heartbroken"
+564,564,564,957116639,1,"I am feeling fairly sad right now. Is there any chance I could get some words of advice, 
+ thank you, Joshua."
+565,565,565,147473306,1,"Hey there, this is Lucas and this month has left me feeling particularly enraged in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+566,566,566,316569752,1,"Hi Shout, I am feeling somewhat heartbroken about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you, Michelle."
+567,567,567,056426455,1,"Sometimes I think i feel anxious, about my friends asking me questions...yeah, i would rather be playing tennis"
+568,568,568,113396776,1,"Pamela here. I am currently feeling a little worried. Is there any chance I could get some advice, 
+ thank you."
+569,569,569,111266047,1,"Good evening Shout, these last few months has left me feeling unusually enraged in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Christina."
+570,570,570,302676453,1,"Good afternoon Shout, these last few days has left me feeling pretty somber in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+571,571,571,217527509,1,"I am feeling sort of unhappy right now. Is there any chance I could get some help or guidance, 
+ thank you, Jeremy."
+572,572,572,359954407,1,"Hey Shout, I am feeling deeply depressed about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Ronald."
+573,573,573,168689403,1,"I am feeling deeply depressed right now. Is there any chance I could get some help or guidance, 
+ thank you, Amy."
+574,574,574,872676772,1,"I am feeling quite upset right now. Is there any chance I could get some input, 
+ thank you, Anne."
+575,575,575,635939744,1,"Good evening Shout, I am feeling quite upset about my current situation with relationship, I am pondering if I could get some words of advice with this,
+ thank you."
+576,576,576,648681616,1,"Good afternoon Shout, I am feeling extremely frustrated about my current situation with friends, I am pondering if I could get some advice or support with this,
+ thank you."
+577,577,577,543882799,1,"Hello Shout, I am feeling very distressed about my current situation at home, I am pondering if I could get some help with this,
+ thank you."
+578,578,578,871916402,1,"Sandra here. I am currently feeling kind of dejected. Is there any chance I could get some advice or support, 
+ thank you."
+579,579,579,723787995,1,"Hi Shout, I am Christian I am feeling a bit unhappy"
+580,580,580,364503700,1,"Hey Shout, I am feeling very distressed about my current situation at work, I am wondering if I could get some advice with this,
+ thank you, Craig."
+581,581,581,193757535,1,", this past month has left me feeling very distressed in relation to my current situ with life, I am in need of guidance,
+ thank you."
+582,582,582,022916828,1,"Hi there, these past few days has left me feeling reasonably glum in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Lisa."
+583,583,583,669953838,1,"Good afternoon Shout, these last few days has left me feeling reasonably glum in relation to my current situ with friends, I am in need of advice or support,
+ thank you."
+584,584,584,178572966,1,"Good morning Shout, this is Samuel and I am feeling a little worried about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+585,585,585,404980990,1,"Good evening Shout, I am feeling deeply depressed about my current situation with relationship, I am wondering if I could get some words of advice with this,
+ thank you, Cynthia."
+586,586,586,985991664,1,It is all good
+587,587,587,389953047,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+588,588,588,295879732,1,"Hi there, these past few days has left me feeling extremely frustrated in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Dana."
+589,589,589,510182233,1,"Daniel here. I am currently feeling very distressed. Is there any chance I could get some advice, 
+ thank you."
+590,590,590,998736533,1,"Good evening Shout, this is Eric and I am feeling sort of unhappy about my current situation with relationship, I am wondering if I could get some words of advice with this,
+ thank you."
+591,591,591,686320315,1,"Good afternoon Shout, these last few days has left me feeling reasonably dismal in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Joseph."
+592,592,592,468341759,1,", I am feeling reasonably glum about my current situation with life, I am wondering if I could get some guidance with this,
+ thank you, Kim."
+593,593,593,131185395,1,"Good morning Shout, this last month has left me feeling awfully miserable in relation to my current situ with family, I am in need of support,
+ thank you."
+594,594,594,512475102,1,I need some support please
+595,595,595,598381214,1,"Anna here. I am currently feeling unusually enraged. Is there any chance I could get some input or advice, 
+ thank you."
+596,596,596,175148090,1,"Hi Shout, my name is Jodi, my cousin Dustin is causing me to feel glum"
+597,597,597,296052353,1,"Joshua here. I am currently feeling somewhat heartbroken. Is there any chance I could get some words of advice, 
+ thank you."
+598,598,598,091227129,1,It is all good
+599,599,599,076903010,1,I need some help please
+600,600,600,768574805,1,"Good morning Shout, I am feeling kind of dejected about my current situation with family, I am inquiring if I could get some support with this,
+ thank you, Joseph."
+601,601,601,411361386,1,", this is Gabriel and I am feeling quite upset about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+602,602,602,141692479,1,"Hi Shout, these last few weeks has left me feeling slightly anxious in relation to my current situ at the moment, I am in need of input,
+ thank you."
+603,603,603,810584644,1,"Jerry here. I am currently feeling considerably stressed. Is there any chance I could get some help or guidance, 
+ thank you."
+604,604,604,560300491,1,", I am feeling awfully miserable about my current situation with life, I am thinking if I could get some guidance with this,
+ thank you, Megan."
+605,605,605,356023747,1,"Hi Shout, my name is Joanne, my grandmother Amy is causing me to feel glum"
+606,606,606,559254938,1,I need some input please
+607,607,607,687741885,1,"Hi there, I am feeling somewhat heartbroken about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you, Stephen."
+608,608,608,475619631,1,"Good afternoon Shout, I am feeling awfully miserable about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+609,609,609,662335761,1,"Hi Shout, my name is Laura, my grandfather Allison is causing me to feel enraged"
+610,610,610,643100277,1,"Hey Shout, this is Nina and this last week has left me feeling reasonably dismal in relation to my current predicament at work, I am in need of advice,
+ thank you."
+611,611,611,745255309,1,"Hi Shout, I am Michelle I am feeling a bit distressed"
+612,612,612,513716506,1,"Hi Shout, I am Jeffrey I am feeling a bit agitated"
+613,613,613,980037490,1,It is all good
+614,614,614,526530205,1,"Hi Shout, I am feeling particularly enraged about my current situation at the moment, I am thinking if I could get some input with this,
+ thank you."
+615,615,615,935045260,1,"I am feeling unusually enraged right now. Is there any chance I could get some guidance, 
+ thank you, James."
+616,616,616,313830070,1,"Hi there, I am feeling a little worried about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+617,617,617,730119491,1,"Tommy here. I am currently feeling particularly enraged. Is there any chance I could get some support, 
+ thank you."
+618,618,618,698947298,1,"Hi Shout, I am Joshua I am feeling a bit stressed"
+619,619,619,506686278,1,"Hi Shout, my name is Jennifer, my aunt Danny is causing me to feel glum"
+620,620,620,786826692,1,"Hi Shout, I am Aaron I am feeling a bit distressed"
+621,621,621,721067997,1,"Good morning Shout, this is Matthew and I am feeling fairly sad about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+622,622,622,790652650,1,"Hi Shout, this is Sonia and these last few weeks has left me feeling slightly anxious in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+623,623,623,020079649,1,It is all good
+624,624,624,506435010,1,"Good evening Shout, these last few months has left me feeling reasonably dismal in relation to my current situ with relationship, I am in need of words of advice,
+ thank you."
+625,625,625,751820410,1,I need some advice or support please
+626,626,626,878271159,1,"Hello Shout, I am feeling deeply depressed about my current situation at home, I am thinking if I could get some help with this,
+ thank you."
+627,627,627,149400611,1,", this is Jerry and I am feeling fairly sad about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+628,628,628,339343642,1,"Hi Shout, this is Jeremy and these last few weeks has left me feeling extremely angry in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+629,629,629,375220239,1,"Good evening Shout, this is Laura and these last few months has left me feeling particularly enraged in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+630,630,630,345825162,1,"Sara here. I am currently feeling awfully miserable. Is there any chance I could get some input or advice, 
+ thank you."
+631,631,631,603988229,1,"I am feeling deeply depressed right now. Is there any chance I could get some words of advice, 
+ thank you, David."
+632,632,632,839454592,1,"Hey there, I am feeling truly bad about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you."
+633,633,633,586786322,1,"I am feeling kind of dejected right now. Is there any chance I could get some guidance, 
+ thank you, Jennifer."
+634,634,634,054142941,1,"I am feeling kind of dejected right now. Is there any chance I could get some input, 
+ thank you, John."
+635,635,635,960893847,1,"Hello there, I am feeling a little worried about my current situation in the matrix, I am inquiring if I could get some input or advice with this,
+ thank you."
+636,636,636,288578193,1,"Kathleen here. I am currently feeling truly bad. Is there any chance I could get some words of advice, 
+ thank you."
+637,637,637,650530402,1,"Hi there, these past few days has left me feeling considerably stressed in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+638,638,638,463739792,1,It is all good
+639,639,639,485195892,1,I need some advice please
+640,640,640,038099632,1,", I am feeling reasonably glum about my current situation with life, I am wondering if I could get some guidance with this,
+ thank you."
+641,641,641,444489937,1,"Ryan here. I am currently feeling pretty somber. Is there any chance I could get some help or input, 
+ thank you."
+642,642,642,953822014,1,"Sometimes I think i feel dismal, about my friends asking me questions...yeah, i would rather be playing tennis"
+643,643,643,635270601,1,"Hi Shout, my name is Mark, my sister Michael is causing me to feel sad"
+644,644,644,340599130,1,"Hi Shout, my name is Rachel, my aunt Derrick is causing me to feel sad"
+645,645,645,236504030,1,"I am feeling quite upset right now. Is there any chance I could get some input or advice, 
+ thank you, Breanna."
+646,646,646,701921211,1,"Hi Shout, I am Vanessa I am feeling a bit sad"
+647,647,647,053353456,1,"Hey there, I am feeling extremely frustrated about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you, Jason."
+648,648,648,495789223,1,It is all good
+649,649,649,145901820,1,"Hello there, I am feeling quite upset about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you, Tracy."
+650,650,650,945157793,1,"Good afternoon Shout, this is Scott and I am feeling seriously agitated about my current situation with friends, I am inquiring if I could get some advice or support with this,
+ thank you."
+651,651,651,667772830,1,"Good morning Shout, I am feeling particularly enraged about my current situation with family, I am thinking if I could get some support with this,
+ thank you, Jonathon."
+652,652,652,802613159,1,"Hey Shout, this is Tara and this last week has left me feeling very distressed in relation to my current predicament at work, I am in need of advice,
+ thank you."
+653,653,653,681149348,1,It is all good
+654,654,654,503385325,1,It is all good
+655,655,655,388730382,1,"Hi Shout, my name is Eileen, my grandmother William is causing me to feel sad"
+656,656,656,168925273,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+657,657,657,431446320,1,"Hi there, this is Rebecca and these past few days has left me feeling reasonably glum in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+658,658,658,888361297,1,"Hello Shout, this is Steve and I am feeling somewhat heartbroken about my current situation at home, I am pondering if I could get some help with this,
+ thank you."
+659,659,659,029840814,1,It is all good
+660,660,660,714014268,1,It is all good
+661,661,661,929700994,1,"Hi Shout, my name is John, my uncle Jorge is causing me to feel worried"
+662,662,662,782326666,1,"Sometimes I think i feel bad, about my friends asking me questions...yeah, i would rather be playing tennis"
+663,663,663,672982984,1,"Hi Shout, this is Vincent and I am feeling particularly enraged about my current situation at the moment, I am thinking if I could get some input with this,
+ thank you."
+664,664,664,574465278,1,"I am feeling very distressed right now. Is there any chance I could get some guidance, 
+ thank you, Douglas."
+665,665,665,846354757,1,"Good evening Shout, this is Shawn and these last few months has left me feeling pretty somber in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+666,666,666,697684202,1,"Hey Shout, this is Amy and I am feeling a little worried about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+667,667,667,164226138,1,"I am feeling extremely frustrated right now. Is there any chance I could get some input, 
+ thank you, Heidi."
+668,668,668,341539431,1,"Good evening Shout, this is Justin and these last few months has left me feeling kind of dejected in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+669,669,669,678086819,1,"Hey Shout, this is Jennifer and I am feeling considerably stressed about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+670,670,670,494961859,1,"Hi Shout, my name is Jose, my aunt Alicia is causing me to feel distressed"
+671,671,671,531985366,1,"Good afternoon Shout, this is Denise and I am feeling deeply depressed about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+672,672,672,936065999,1,"John here. I am currently feeling deeply depressed. Is there any chance I could get some advice or support, 
+ thank you."
+673,673,673,190857507,1,"Hi Shout, my name is John, my grandmother Sandra is causing me to feel upset"
+674,674,674,710636224,1,"Rachael here. I am currently feeling slightly anxious. Is there any chance I could get some help, 
+ thank you."
+675,675,675,472616221,1,"Good evening Shout, these last few months has left me feeling unusually enraged in relation to my current situ with relationship, I am in need of words of advice,
+ thank you."
+676,676,676,322118908,1,It is all good
+677,677,677,846986733,1,"Hello Shout, this past week has left me feeling a little worried in relation to my situation at home, I am in need of help, 
+ thank you, Dustin."
+678,678,678,589157410,1,"Hi there, this is Lauren and I am feeling deeply depressed about my current situation with my parents, I am pondering if I could get some help or guidance with this,
+ thank you."
+679,679,679,892370806,1,"I am feeling deeply depressed right now. Is there any chance I could get some guidance, 
+ thank you, Kyle."
+680,680,680,088235247,1,"Joshua here. I am currently feeling reasonably glum. Is there any chance I could get some support, 
+ thank you."
+681,681,681,199919597,1,"Hi Shout, I am Hailey I am feeling a bit distressed"
+682,682,682,690483467,1,It is all good
+683,683,683,553349896,1,"Hello there, I am feeling truly bad about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you."
+684,684,684,844315128,1,"Good evening Shout, I am feeling reasonably dismal about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you."
+685,685,685,920550161,1,I need some support please
+686,686,686,780026151,1,"Sheri here. I am currently feeling extremely frustrated. Is there any chance I could get some support, 
+ thank you."
+687,687,687,817168811,1,"Sometimes I think i feel upset, about my friends asking me questions...yeah, i would rather be playing tennis"
+688,688,688,747032190,1,"Hi Shout, I am Chase I am feeling a bit depressed"
+689,689,689,960065425,1,", I am feeling a little worried about my current situation with life, I am wondering if I could get some guidance with this,
+ thank you."
+690,690,690,777703983,1,"Good afternoon Shout, I am feeling quite upset about my current situation with friends, I am wondering if I could get some advice or support with this,
+ thank you."
+691,691,691,866269280,1,"Hi Shout, these last few weeks has left me feeling pretty somber in relation to my situation at the moment, I am in need of input, 
+ thank you, Michael."
+692,692,692,881715956,1,It is all good
+693,693,693,011587345,1,"Good evening Shout, I am feeling considerably stressed about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you."
+694,694,694,195640853,1,"Hey Shout, I am feeling somewhat heartbroken about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+695,695,695,199032398,1,", this past month has left me feeling reasonably glum in relation to my situation with life, I am in need of guidance, 
+ thank you, Scott."
+696,696,696,828694156,1,"Hi there, this is Joseph and I am feeling reasonably dismal about my current situation with my parents, I am thinking if I could get some help or guidance with this,
+ thank you."
+697,697,697,429410837,1,"Hi Shout, my name is Cynthia, my cousin Heather is causing me to feel sad"
+698,698,698,394201456,1,I need some input please
+699,699,699,201814130,1,"Hi Shout, my name is Jeffrey, my uncle Tiffany is causing me to feel heartbroken"
+700,700,700,502710830,1,"Hello there, this is Andrew and this week has left me feeling somewhat heartbroken in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+701,701,701,999485368,1,"Hi Shout, I am Jonathan I am feeling a bit dejected"
+702,702,702,760643155,1,"Hello Shout, this past week has left me feeling seriously agitated in relation to my situation at home, I am in need of help, 
+ thank you, Dylan."
+703,703,703,550602992,1,"I am feeling awfully miserable right now. Is there any chance I could get some support, 
+ thank you, Edward."
+704,704,704,008573388,1,It is all good
+705,705,705,516954141,1,"Hello there, I am feeling deeply depressed about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you, Patrick."
+706,706,706,179618014,1,"Hello Shout, this past week has left me feeling kind of dejected in relation to my current situ at home, I am in need of help,
+ thank you."
+707,707,707,406057090,1,"I am feeling somewhat heartbroken right now. Is there any chance I could get some advice or support, 
+ thank you, Maria."
+708,708,708,387996171,1,"Good morning Shout, this is Sydney and I am feeling very distressed about my current situation with family, I am thinking if I could get some support with this,
+ thank you."
+709,709,709,391307208,1,"Hey Shout, this last week has left me feeling considerably stressed in relation to my current situ at work, I am in need of advice,
+ thank you."
+710,710,710,634253770,1,It is all good
+711,711,711,578598514,1,"Sometimes I think i feel sad, about my friends asking me questions...yeah, i would rather be playing tennis"
+712,712,712,833515654,1,"Hey Shout, I am feeling seriously agitated about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+713,713,713,231132568,1,"Hey there, I am feeling considerably stressed about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you, Crystal."
+714,714,714,743485390,1,"Hey Shout, this last week has left me feeling unusually enraged in relation to my current situ at work, I am in need of advice,
+ thank you."
+715,715,715,317789017,1,It is all good
+716,716,716,143093568,1,"Hi Shout, this is Andrea and these last few weeks has left me feeling deeply depressed in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+717,717,717,786541869,1,"Hi there, these past few days has left me feeling slightly anxious in relation to my current situ with my parents, I am in need of help or guidance,
+ thank you."
+718,718,718,161144078,1,"Hi Shout, these last few weeks has left me feeling quite upset in relation to my situation at the moment, I am in need of input, 
+ thank you, Bradley."
+719,719,719,082921416,1,"Hello Shout, this is Brian and this past week has left me feeling kind of dejected in relation to my current predicament at home, I am in need of help,
+ thank you."
+720,720,720,190767161,1,"Hello Shout, this past week has left me feeling awfully miserable in relation to my situation at home, I am in need of help, 
+ thank you, Christina."
+721,721,721,710786426,1,"Rodney here. I am currently feeling a little worried. Is there any chance I could get some help or input, 
+ thank you."
+722,722,722,804258142,1,"Hello there, this is Angela and I am feeling truly bad about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you."
+723,723,723,399388119,1,It is all good
+724,724,724,254049943,1,"Hi there, this is Natasha and I am feeling very distressed about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+725,725,725,254232983,1,I need some input or advice please
+726,726,726,166554965,1,"Hey Shout, I am feeling truly bad about my current situation at work, I am thinking if I could get some advice with this,
+ thank you, Stephanie."
+727,727,727,190658201,1,It is all good
+728,728,728,640679730,1,It is all good
+729,729,729,504534699,1,"Good morning Shout, this is Kristina and I am feeling deeply depressed about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+730,730,730,415538187,1,It is all good
+731,731,731,875630151,1,"Hey Shout, this is Debra and I am feeling reasonably glum about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+732,732,732,123393266,1,"Hi Shout, my name is Jodi, my brother Annette is causing me to feel dejected"
+733,733,733,424149554,1,"William here. I am currently feeling pretty somber. Is there any chance I could get some advice, 
+ thank you."
+734,734,734,375481880,1,"Hey there, I am feeling fairly sad about my current situation with my development as a person, I am thinking if I could get some help or input with this,
+ thank you."
+735,735,735,808086443,1,"Good evening Shout, this is Matthew and these last few months has left me feeling kind of dejected in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+736,736,736,603579219,1,"Danielle here. I am currently feeling fairly sad. Is there any chance I could get some help, 
+ thank you."
+737,737,737,423072970,1,"Hello there, this week has left me feeling sort of unhappy in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+738,738,738,812472631,1,It is all good
+739,739,739,477078396,1,"Hi Shout, I am feeling awfully miserable about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+740,740,740,691992963,1,"Sometimes I think i feel miserable, about my friends asking me questions...yeah, i would rather be playing tennis"
+741,741,741,563344752,1,"Good evening Shout, this is Kathryn and I am feeling reasonably glum about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you."
+742,742,742,228897151,1,"Hey Shout, this last week has left me feeling quite upset in relation to my current situ at work, I am in need of advice,
+ thank you."
+743,743,743,937213372,1,"Hi Shout, this is Kayla and I am feeling truly bad about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+744,744,744,016415800,1,It is all good
+745,745,745,722605622,1,", this is Cheryl and this past month has left me feeling extremely frustrated in relation to my current predicament with life, I am in need of guidance,
+ thank you."
+746,746,746,458525339,1,"Hi Shout, I am Kimberly I am feeling a bit stressed"
+747,747,747,987842732,1,"Good evening Shout, I am feeling seriously agitated about my current situation with relationship, I am wondering if I could get some words of advice with this,
+ thank you."
+748,748,748,342896182,1,"Hey there, I am feeling pretty somber about my current situation with my development as a person, I am inquiring if I could get some help or input with this,
+ thank you."
+749,749,749,196559439,1,"Hi Shout, I am Jennifer I am feeling a bit sad"
+750,750,750,089821290,1,"Good evening Shout, these last few months has left me feeling deeply depressed in relation to my current situ with relationship, I am in need of words of advice,
+ thank you."
+751,751,751,017015854,1,"Hi Shout, these last few weeks has left me feeling slightly anxious in relation to my situation at the moment, I am in need of input, 
+ thank you, Julie."
+752,752,752,750755957,1,"Hi Shout, I am feeling seriously agitated about my current situation at the moment, I am inquiring if I could get some input with this,
+ thank you, Leslie."
+753,753,753,627187935,1,It is all good
+754,754,754,980230552,1,"Hi Shout, I am Lori I am feeling a bit dismal"
+755,755,755,936542714,1,"Good morning Shout, this is Melissa and I am feeling seriously agitated about my current situation with family, I am thinking if I could get some support with this,
+ thank you."
+756,756,756,659967150,1,"Good evening Shout, this is Stephanie and these last few months has left me feeling fairly sad in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+757,757,757,134330531,1,"Hello Shout, I am feeling kind of dejected about my current situation at home, I am thinking if I could get some help with this,
+ thank you, Bruce."
+758,758,758,502636816,1,"Good afternoon Shout, these last few days has left me feeling pretty somber in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Antonio."
+759,759,759,879844053,1,"Hi there, I am feeling very distressed about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+760,760,760,912844379,1,"Hi Shout, my name is Cynthia, my grandfather Donna is causing me to feel agitated"
+761,761,761,962698900,1,"Hi Shout, my name is Ralph, my grandmother Manuel is causing me to feel agitated"
+762,762,762,304543440,1,"Hi Shout, I am Lorraine I am feeling a bit anxious"
+763,763,763,915716122,1,"Hi Shout, I am feeling fairly sad about my current situation at the moment, I am pondering if I could get some input with this,
+ thank you."
+764,764,764,700899567,1,"Hey Shout, this is Bernard and I am feeling awfully miserable about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+765,765,765,289116884,1,"Amanda here. I am currently feeling reasonably glum. Is there any chance I could get some help, 
+ thank you."
+766,766,766,812475606,1,It is all good
+767,767,767,901314039,1,", this past month has left me feeling awfully miserable in relation to my situation with life, I am in need of guidance, 
+ thank you, Ashley."
+768,768,768,367064680,1,"Hello Shout, this is Daniel and I am feeling unusually enraged about my current situation at home, I am wondering if I could get some help with this,
+ thank you."
+769,769,769,661177756,1,"I am feeling quite upset right now. Is there any chance I could get some words of advice, 
+ thank you, Lindsey."
+770,770,770,930100400,1,"Hey there, this month has left me feeling very distressed in relation to my situation with my development as a person, I am in need of help or input, 
+ thank you, Marc."
+771,771,771,997331502,1,It is all good
+772,772,772,588089278,1,"Sarah here. I am currently feeling reasonably glum. Is there any chance I could get some help, 
+ thank you."
+773,773,773,370694266,1,"Good evening Shout, this is Katrina and these last few months has left me feeling pretty somber in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+774,774,774,480397142,1,"I am feeling slightly anxious right now. Is there any chance I could get some advice, 
+ thank you, Christy."
+775,775,775,273073682,1,I need some guidance please
+776,776,776,103855578,1,"Sometimes I think i feel dismal, about my friends asking me questions...yeah, i would rather be playing tennis"
+777,777,777,189453953,1,"Good morning Shout, this is Carol and this last month has left me feeling very distressed in relation to my current predicament with family, I am in need of support,
+ thank you."
+778,778,778,804109551,1,"I am feeling awfully miserable right now. Is there any chance I could get some advice, 
+ thank you, Jennifer."
+779,779,779,675362481,1,"Hello there, this is Morgan and I am feeling deeply depressed about my current situation in the matrix, I am inquiring if I could get some input or advice with this,
+ thank you."
+780,780,780,616567725,1,"I am feeling sort of unhappy right now. Is there any chance I could get some advice or support, 
+ thank you, Nathan."
+781,781,781,157687111,1,"Hello Shout, I am feeling extremely frustrated about my current situation at home, I am pondering if I could get some help with this,
+ thank you, Eric."
+782,782,782,015986459,1,"Hi Shout, I am Dustin I am feeling a bit miserable"
+783,783,783,214489172,1,"Good morning Shout, this last month has left me feeling reasonably glum in relation to my situation with family, I am in need of support, 
+ thank you, Jason."
+784,784,784,353586726,1,"Hi Shout, my name is Kristine, my uncle Tami is causing me to feel distressed"
+785,785,785,134793493,1,"Good evening Shout, this is Willie and these last few months has left me feeling awfully miserable in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+786,786,786,268017601,1,"Hi Shout, I am Ashley I am feeling a bit upset"
+787,787,787,124110906,1,"Hello there, this is Tommy and I am feeling slightly anxious about my current situation in the matrix, I am wondering if I could get some input or advice with this,
+ thank you."
+788,788,788,161250203,1,"Hey Shout, I am feeling considerably stressed about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Danielle."
+789,789,789,870914158,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+790,790,790,490623766,1,"Sometimes I think i feel frustrated, about my friends asking me questions...yeah, i would rather be playing tennis"
+791,791,791,683951436,1,I need some help or guidance please
+792,792,792,708186388,1,"Hi Shout, these last few weeks has left me feeling awfully miserable in relation to my current situ at the moment, I am in need of input,
+ thank you."
+793,793,793,057613990,1,"Hey Shout, I am feeling awfully miserable about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+794,794,794,813363802,1,"I am feeling somewhat heartbroken right now. Is there any chance I could get some advice or support, 
+ thank you, Dustin."
+795,795,795,159536910,1,"Hey Shout, this is Michael and I am feeling awfully miserable about my current situation at work, I am thinking if I could get some advice with this,
+ thank you."
+796,796,796,726446890,1,"Good morning Shout, I am feeling reasonably dismal about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+797,797,797,014227401,1,"Hi Shout, I am Jason I am feeling a bit angry"
+798,798,798,257353124,1,"Hello Shout, this is Ryan and this past week has left me feeling sort of unhappy in relation to my current predicament at home, I am in need of help,
+ thank you."
+799,799,799,910679253,1,"Hi Shout, my name is Robin, my grandmother Kenneth is causing me to feel distressed"
+800,800,800,960393441,1,", I am feeling pretty somber about my current situation with life, I am thinking if I could get some guidance with this,
+ thank you."
+801,801,801,558427386,1,"Good morning Shout, this is Alison and this last month has left me feeling pretty somber in relation to my current predicament with family, I am in need of support,
+ thank you."
+802,802,802,590344788,1,"Hi there, this is Stacy and I am feeling seriously agitated about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+803,803,803,262835877,1,"Good morning Shout, this is Martin and this last month has left me feeling fairly sad in relation to my current predicament with family, I am in need of support,
+ thank you."
+804,804,804,263622473,1,"Hi Shout, my name is Daniel, my aunt Mark is causing me to feel anxious"
+805,805,805,940007512,1,"Hi Shout, I am feeling kind of dejected about my current situation at the moment, I am inquiring if I could get some input with this,
+ thank you."
+806,806,806,060858651,1,"Hey there, I am feeling fairly sad about my current situation with my development as a person, I am wondering if I could get some help or input with this,
+ thank you."
+807,807,807,705199066,1,"Hi Shout, I am Martin I am feeling a bit stressed"
+808,808,808,843210178,1,"Hi Shout, my name is Erin, my mother Elizabeth is causing me to feel enraged"
+809,809,809,658001740,1,"Hi Shout, my name is Lauren, my mother Mathew is causing me to feel worried"
+810,810,810,726973931,1,"Hi Shout, these last few weeks has left me feeling quite upset in relation to my current situ at the moment, I am in need of input,
+ thank you."
+811,811,811,942914889,1,"Hey Shout, this is Lacey and this last week has left me feeling slightly anxious in relation to my current predicament at work, I am in need of advice,
+ thank you."
+812,812,812,219355035,1,"Hi Shout, I am feeling reasonably glum about my current situation at the moment, I am thinking if I could get some input with this,
+ thank you."
+813,813,813,733065183,1,"Hello Shout, this is Kathryn and this past week has left me feeling reasonably dismal in relation to my current predicament at home, I am in need of help,
+ thank you."
+814,814,814,920873048,1,I need some input please
+815,815,815,368072437,1,"Hi Shout, my name is Aaron, my cousin Larry is causing me to feel upset"
+816,816,816,446587211,1,"Hi there, these past few days has left me feeling extremely angry in relation to my situation with my parents, I am in need of help or guidance, 
+ thank you, Robert."
+817,817,817,244844538,1,"Hi Shout, my name is George, my mother Paula is causing me to feel agitated"
+818,818,818,908381297,1,"Miguel here. I am currently feeling deeply depressed. Is there any chance I could get some support, 
+ thank you."
+819,819,819,823263673,1,"Hi Shout, I am Lisa I am feeling a bit anxious"
+820,820,820,394072917,1,"Good afternoon Shout, these last few days has left me feeling reasonably glum in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Amy."
+821,821,821,840056470,1,I need some support please
+822,822,822,768914104,1,"Hey there, I am feeling awfully miserable about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you."
+823,823,823,088315483,1,"Hi Shout, my name is Patricia, my grandfather Paige is causing me to feel somber"
+824,824,824,470286144,1,"Hello Shout, this is Marcus and this past week has left me feeling pretty somber in relation to my current predicament at home, I am in need of help,
+ thank you."
+825,825,825,580207622,1,"Hello there, this is Courtney and I am feeling reasonably glum about my current situation in the matrix, I am pondering if I could get some input or advice with this,
+ thank you."
+826,826,826,819633044,1,"Hey Shout, I am feeling seriously agitated about my current situation at work, I am wondering if I could get some advice with this,
+ thank you, Dennis."
+827,827,827,541816982,1,"Hi Shout, my name is Cody, my cousin Jonathan is causing me to feel dejected"
+828,828,828,931504511,1,"Hi Shout, this is Jeffrey and I am feeling extremely angry about my current situation at the moment, I am wondering if I could get some input with this,
+ thank you."
+829,829,829,223124503,1,"Hey there, this is Lauren and this month has left me feeling reasonably dismal in relation to my current predicament with my development as a person, I am in need of help or input,
+ thank you."
+830,830,830,863042810,1,"Good morning Shout, this is Christopher and I am feeling reasonably dismal about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+831,831,831,157886770,1,"Angela here. I am currently feeling particularly enraged. Is there any chance I could get some help or guidance, 
+ thank you."
+832,832,832,428450620,1,"Sometimes I think i feel unhappy, about my friends asking me questions...yeah, i would rather be playing tennis"
+833,833,833,541489153,1,"Hello there, this week has left me feeling considerably stressed in relation to my situation in the matrix, I am in need of input or advice, 
+ thank you, Danielle."
+834,834,834,303528616,1,"Hi Shout, I am Matthew I am feeling a bit enraged"
+835,835,835,247008199,1,"Hey Shout, I am feeling considerably stressed about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+836,836,836,862212819,1,"Hi Shout, my name is Adam, my mother Donna is causing me to feel dejected"
+837,837,837,805597556,1,"Hi there, I am feeling truly bad about my current situation with my parents, I am thinking if I could get some help or guidance with this,
+ thank you."
+838,838,838,023540820,1,It is all good
+839,839,839,734817323,1,I need some input or advice please
+840,840,840,766909890,1,"Good afternoon Shout, this is Jason and I am feeling truly bad about my current situation with friends, I am pondering if I could get some advice or support with this,
+ thank you."
+841,841,841,014645083,1,"Sometimes I think i feel anxious, about my friends asking me questions...yeah, i would rather be playing tennis"
+842,842,842,344922331,1,"Hi Shout, my name is Sara, my sister Kara is causing me to feel upset"
+843,843,843,325307944,1,"Hi Shout, my name is Kenneth, my brother Erin is causing me to feel enraged"
+844,844,844,611955559,1,"Nathan here. I am currently feeling awfully miserable. Is there any chance I could get some support, 
+ thank you."
+845,845,845,701124275,1,I need some help please
+846,846,846,318750303,1,I need some words of advice please
+847,847,847,719300137,1,I need some guidance please
+848,848,848,077320814,1,"Hello Shout, this is Krystal and this past week has left me feeling somewhat heartbroken in relation to my current predicament at home, I am in need of help,
+ thank you."
+849,849,849,346616035,1,It is all good
+850,850,850,618425476,1,"Shannon here. I am currently feeling very distressed. Is there any chance I could get some support, 
+ thank you."
+851,851,851,900958542,1,It is all good
+852,852,852,693814595,1,It is all good
+853,853,853,344818190,1,"I am feeling awfully miserable right now. Is there any chance I could get some input or advice, 
+ thank you, Jamie."
+854,854,854,025193220,1,"Hey Shout, I am feeling extremely angry about my current situation at work, I am pondering if I could get some advice with this,
+ thank you."
+855,855,855,472767515,1,"Hey there, this is Kevin and I am feeling sort of unhappy about my current situation with my development as a person, I am wondering if I could get some help or input with this,
+ thank you."
+856,856,856,319955502,1,", this is Jerome and I am feeling extremely angry about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+857,857,857,879433958,1,"Hi Shout, I am feeling seriously agitated about my current situation at the moment, I am inquiring if I could get some input with this,
+ thank you, Sheri."
+858,858,858,579616743,1,"Hey there, this month has left me feeling deeply depressed in relation to my current situ with my development as a person, I am in need of help or input,
+ thank you."
+859,859,859,282857360,1,"Hi there, I am feeling seriously agitated about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you, Thomas."
+860,860,860,638568813,1,"Hello Shout, this past week has left me feeling seriously agitated in relation to my situation at home, I am in need of help, 
+ thank you, David."
+861,861,861,975334001,1,"Hey there, this month has left me feeling reasonably dismal in relation to my current situ with my development as a person, I am in need of help or input,
+ thank you."
+862,862,862,593451268,1,"Hi Shout, my name is William, my brother Gregory is causing me to feel angry"
+863,863,863,756570191,1,"I am feeling awfully miserable right now. Is there any chance I could get some input or advice, 
+ thank you, Cindy."
+864,864,864,978463075,1,"I am feeling extremely angry right now. Is there any chance I could get some support, 
+ thank you, Jared."
+865,865,865,541091984,1,"Good afternoon Shout, this is Jacqueline and I am feeling sort of unhappy about my current situation with friends, I am thinking if I could get some advice or support with this,
+ thank you."
+866,866,866,240970796,1,"Hello there, this is Joan and I am feeling deeply depressed about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you."
+867,867,867,776427269,1,"Matthew here. I am currently feeling truly bad. Is there any chance I could get some words of advice, 
+ thank you."
+868,868,868,605984659,1,", this is Elizabeth and I am feeling slightly anxious about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you."
+869,869,869,704110770,1,"Hi Shout, my name is Stacey, my uncle Benjamin is causing me to feel miserable"
+870,870,870,232464503,1,"Chad here. I am currently feeling extremely frustrated. Is there any chance I could get some words of advice, 
+ thank you."
+871,871,871,307926398,1,", I am feeling awfully miserable about my current situation with life, I am inquiring if I could get some guidance with this,
+ thank you, David."
+872,872,872,160822527,1,I need some guidance please
+873,873,873,680998705,1,"Hi Shout, I am Jasmine I am feeling a bit frustrated"
+874,874,874,226954776,1,"Hey Shout, I am feeling pretty somber about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+875,875,875,814077607,1,"I am feeling quite upset right now. Is there any chance I could get some support, 
+ thank you, Kevin."
+876,876,876,897566473,1,"Rebecca here. I am currently feeling fairly sad. Is there any chance I could get some advice or support, 
+ thank you."
+877,877,877,218168083,1,"I am feeling particularly enraged right now. Is there any chance I could get some help or guidance, 
+ thank you, April."
+878,878,878,273721209,1,"Good evening Shout, these last few months has left me feeling quite upset in relation to my situation with relationship, I am in need of words of advice, 
+ thank you, Sergio."
+879,879,879,554979855,1,"Hello Shout, this past week has left me feeling reasonably dismal in relation to my situation at home, I am in need of help, 
+ thank you, Billy."
+880,880,880,802462174,1,"Hi Shout, I am Louis I am feeling a bit glum"
+881,881,881,939532032,1,"I am feeling very distressed right now. Is there any chance I could get some help or guidance, 
+ thank you, James."
+882,882,882,599302628,1,"Hi Shout, I am Barry I am feeling a bit stressed"
+883,883,883,623247114,1,"Hello there, this week has left me feeling kind of dejected in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+884,884,884,399827597,1,"Hi Shout, these last few weeks has left me feeling reasonably dismal in relation to my situation at the moment, I am in need of input, 
+ thank you, Mark."
+885,885,885,948048970,1,"Sometimes I think i feel depressed, about my friends asking me questions...yeah, i would rather be playing tennis"
+886,886,886,831091049,1,"Sometimes I think i feel agitated, about my friends asking me questions...yeah, i would rather be playing tennis"
+887,887,887,171356836,1,I need some advice or support please
+888,888,888,087289562,1,"Hey there, this month has left me feeling awfully miserable in relation to my situation with my development as a person, I am in need of help or input, 
+ thank you, Logan."
+889,889,889,015018716,1,"Hello Shout, this is Dana and I am feeling truly bad about my current situation at home, I am inquiring if I could get some help with this,
+ thank you."
+890,890,890,036340840,1,"Hi Shout, my name is Jane, my son Samuel is causing me to feel dejected"
+891,891,891,307718971,1,"Hi there, I am feeling seriously agitated about my current situation with my parents, I am wondering if I could get some help or guidance with this,
+ thank you."
+892,892,892,732735650,1,"Hi Shout, my name is Tyler, my son April is causing me to feel heartbroken"
+893,893,893,339262271,1,"Sometimes I think i feel somber, about my friends asking me questions...yeah, i would rather be playing tennis"
+894,894,894,588676073,1,"Good morning Shout, this is Rachel and I am feeling sort of unhappy about my current situation with family, I am wondering if I could get some support with this,
+ thank you."
+895,895,895,559278492,1,"Hi Shout, my name is Patricia, my grandfather David is causing me to feel enraged"
+896,896,896,296869755,1,"Hi Shout, my name is Timothy, my son Patrick is causing me to feel agitated"
+897,897,897,570863006,1,I need some support please
+898,898,898,489370263,1,"Hi there, I am feeling pretty somber about my current situation with my parents, I am thinking if I could get some help or guidance with this,
+ thank you, Charles."
+899,899,899,758296933,1,"Good morning Shout, this is Carla and this last month has left me feeling fairly sad in relation to my current predicament with family, I am in need of support,
+ thank you."
+900,900,900,614620014,1,"Hello Shout, this is Brandon and I am feeling sort of unhappy about my current situation at home, I am pondering if I could get some help with this,
+ thank you."
+901,901,901,942555997,1,"Good evening Shout, I am feeling quite upset about my current situation with relationship, I am thinking if I could get some words of advice with this,
+ thank you, Dana."
+902,902,902,898842185,1,"Hi Shout, I am James I am feeling a bit frustrated"
+903,903,903,556537562,1,I need some input or advice please
+904,904,904,845225395,1,"Good evening Shout, this is Matthew and these last few months has left me feeling very distressed in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+905,905,905,167728408,1,"Sometimes I think i feel upset, about my friends asking me questions...yeah, i would rather be playing tennis"
+906,906,906,833186751,1,"Hey Shout, this is Miranda and this last week has left me feeling quite upset in relation to my current predicament at work, I am in need of advice,
+ thank you."
+907,907,907,505798795,1,It is all good
+908,908,908,491153147,1,It is all good
+909,909,909,669266452,1,"Hello there, I am feeling extremely angry about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you, Elizabeth."
+910,910,910,558281301,1,"Good afternoon Shout, these last few days has left me feeling quite upset in relation to my situation with friends, I am in need of advice or support, 
+ thank you, Marie."
+911,911,911,244834841,1,"Hi Shout, my name is Ronald, my grandfather Andrew is causing me to feel somber"
+912,912,912,831232783,1,"Hello Shout, this is Brent and this past week has left me feeling particularly enraged in relation to my current predicament at home, I am in need of help,
+ thank you."
+913,913,913,321621260,1,"Hi Shout, my name is Kimberly, my son Jeremy is causing me to feel unhappy"
+914,914,914,125352672,1,"Hi there, this is Jessica and these past few days has left me feeling somewhat heartbroken in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+915,915,915,989663841,1,"Good morning Shout, this is Jason and I am feeling truly bad about my current situation with family, I am pondering if I could get some support with this,
+ thank you."
+916,916,916,611281824,1,I need some help or guidance please
+917,917,917,277104551,1,"Good morning Shout, this is Isaiah and I am feeling sort of unhappy about my current situation with family, I am inquiring if I could get some support with this,
+ thank you."
+918,918,918,055430689,1,It is all good
+919,919,919,137049940,1,"Hi Shout, my name is Johnny, my brother Terry is causing me to feel depressed"
+920,920,920,038872157,1,"I am feeling awfully miserable right now. Is there any chance I could get some help or input, 
+ thank you, Patrick."
+921,921,921,487140185,1,"Hi Shout, I am Joshua I am feeling a bit worried"
+922,922,922,941577025,1,I need some input or advice please
+923,923,923,162720244,1,"Hey Shout, I am feeling truly bad about my current situation at work, I am thinking if I could get some advice with this,
+ thank you."
+924,924,924,038371556,1,"Hey Shout, I am feeling extremely angry about my current situation at work, I am wondering if I could get some advice with this,
+ thank you."
+925,925,925,095132539,1,"Hi Shout, my name is Brian, my cousin Raven is causing me to feel depressed"
+926,926,926,224555346,1,"Hey Shout, I am feeling particularly enraged about my current situation at work, I am wondering if I could get some advice with this,
+ thank you, Lisa."
+927,927,927,094718040,1,"Hello Shout, I am feeling extremely angry about my current situation at home, I am pondering if I could get some help with this,
+ thank you."
+928,928,928,794090587,1,"I am feeling fairly sad right now. Is there any chance I could get some help or guidance, 
+ thank you, Kelly."
+929,929,929,147523451,1,It is all good
+930,930,930,590577005,1,"Sometimes I think i feel enraged, about my friends asking me questions...yeah, i would rather be playing tennis"
+931,931,931,268802192,1,"Sometimes I think i feel bad, about my friends asking me questions...yeah, i would rather be playing tennis"
+932,932,932,878710590,1,"I am feeling considerably stressed right now. Is there any chance I could get some help or guidance, 
+ thank you, Nancy."
+933,933,933,945113895,1,"Hey Shout, I am feeling a little worried about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Darrell."
+934,934,934,930851109,1,"Hi Shout, I am Manuel I am feeling a bit stressed"
+935,935,935,674358812,1,"Andrea here. I am currently feeling reasonably dismal. Is there any chance I could get some help, 
+ thank you."
+936,936,936,877708118,1,"Hi Shout, I am Amber I am feeling a bit heartbroken"
+937,937,937,468596702,1,"Sometimes I think i feel depressed, about my friends asking me questions...yeah, i would rather be playing tennis"
+938,938,938,010247336,1,"Hi Shout, these last few weeks has left me feeling reasonably glum in relation to my current situ at the moment, I am in need of input,
+ thank you."
+939,939,939,208134253,1,", this past month has left me feeling awfully miserable in relation to my situation with life, I am in need of guidance, 
+ thank you, Kyle."
+940,940,940,222450134,1,"Hello Shout, this is Gabrielle and this past week has left me feeling awfully miserable in relation to my current predicament at home, I am in need of help,
+ thank you."
+941,941,941,417832059,1,"Hi Shout, my name is Pamela, my son Richard is causing me to feel dejected"
+942,942,942,178389643,1,It is all good
+943,943,943,057288389,1,"Ronald here. I am currently feeling unusually enraged. Is there any chance I could get some advice or support, 
+ thank you."
+944,944,944,898204946,1,"Hello there, this week has left me feeling kind of dejected in relation to my current situ in the matrix, I am in need of input or advice,
+ thank you."
+945,945,945,723998371,1,I need some advice or support please
+946,946,946,112817770,1,"Hey Shout, I am feeling somewhat heartbroken about my current situation at work, I am pondering if I could get some advice with this,
+ thank you, Belinda."
+947,947,947,335390337,1,It is all good
+948,948,948,174050262,1,"Stacey here. I am currently feeling reasonably dismal. Is there any chance I could get some advice, 
+ thank you."
+949,949,949,893194334,1,"Hey Shout, this is Brendan and this last week has left me feeling considerably stressed in relation to my current predicament at work, I am in need of advice,
+ thank you."
+950,950,950,778654528,1,It is all good
+951,951,951,352832271,1,"Hi Shout, my name is Shawn, my uncle Daniel is causing me to feel agitated"
+952,952,952,933703751,1,I need some input or advice please
+953,953,953,666942059,1,"Hello Shout, this past week has left me feeling considerably stressed in relation to my current situ at home, I am in need of help,
+ thank you."
+954,954,954,762326791,1,I need some help or guidance please
+955,955,955,854008493,1,"Christina here. I am currently feeling considerably stressed. Is there any chance I could get some help, 
+ thank you."
+956,956,956,060286971,1,"Hi Shout, my name is Michael, my grandfather Jennifer is causing me to feel heartbroken"
+957,957,957,276112170,1,It is all good
+958,958,958,058567874,1,I need some advice please
+959,959,959,504001415,1,"Hi there, I am feeling fairly sad about my current situation with my parents, I am thinking if I could get some help or guidance with this,
+ thank you."
+960,960,960,716948067,1,"Hi Shout, my name is Michael, my mother Michelle is causing me to feel upset"
+961,961,961,230280137,1,"Hi Shout, this is Matthew and these last few weeks has left me feeling considerably stressed in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+962,962,962,539334533,1,"Hello Shout, I am feeling considerably stressed about my current situation at home, I am thinking if I could get some help with this,
+ thank you."
+963,963,963,334575150,1,"Good evening Shout, this is Laura and these last few months has left me feeling deeply depressed in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+964,964,964,411169213,1,"Hello there, I am feeling a little worried about my current situation in the matrix, I am thinking if I could get some input or advice with this,
+ thank you."
+965,965,965,850929390,1,"I am feeling unusually enraged right now. Is there any chance I could get some support, 
+ thank you, Jessica."
+966,966,966,294096585,1,"Good evening Shout, this is Dawn and these last few months has left me feeling a little worried in relation to my current predicament with relationship, I am in need of words of advice,
+ thank you."
+967,967,967,421175985,1,It is all good
+968,968,968,978071936,1,"Hi Shout, I am Jose I am feeling a bit dismal"
+969,969,969,146919031,1,"Hello there, this is Mary and this week has left me feeling very distressed in relation to my current predicament in the matrix, I am in need of input or advice,
+ thank you."
+970,970,970,837007615,1,It is all good
+971,971,971,470780177,1,"I am feeling reasonably dismal right now. Is there any chance I could get some help or input, 
+ thank you, Denise."
+972,972,972,642922082,1,I need some support please
+973,973,973,695382241,1,"Good morning Shout, I am feeling pretty somber about my current situation with family, I am inquiring if I could get some support with this,
+ thank you, Valerie."
+974,974,974,103924042,1,"Hey there, I am feeling considerably stressed about my current situation with my development as a person, I am pondering if I could get some help or input with this,
+ thank you, Keith."
+975,975,975,026672993,1,It is all good
+976,976,976,963341166,1,"Hi there, I am feeling slightly anxious about my current situation with my parents, I am inquiring if I could get some help or guidance with this,
+ thank you."
+977,977,977,142077910,1,"Good morning Shout, this is David and this last month has left me feeling awfully miserable in relation to my current predicament with family, I am in need of support,
+ thank you."
+978,978,978,135399078,1,"Sometimes I think i feel frustrated, about my friends asking me questions...yeah, i would rather be playing tennis"
+979,979,979,390305879,1,I need some support please
+980,980,980,537129754,1,"Hi Shout, I am Andrew I am feeling a bit frustrated"
+981,981,981,742095437,1,"Hi there, this is Bruce and these past few days has left me feeling deeply depressed in relation to my current predicament with my parents, I am in need of help or guidance,
+ thank you."
+982,982,982,223494592,1,"Hi Shout, I am Ronald I am feeling a bit enraged"
+983,983,983,967065766,1,"Good afternoon Shout, this is Justin and I am feeling extremely angry about my current situation with friends, I am pondering if I could get some advice or support with this,
+ thank you."
+984,984,984,858503366,1,", this past month has left me feeling deeply depressed in relation to my current situ with life, I am in need of guidance,
+ thank you."
+985,985,985,565223269,1,"Hello Shout, I am feeling extremely frustrated about my current situation at home, I am inquiring if I could get some help with this,
+ thank you, Eric."
+986,986,986,846083513,1,"Kathryn here. I am currently feeling a little worried. Is there any chance I could get some input, 
+ thank you."
+987,987,987,681277753,1,I need some support please
+988,988,988,959373467,1,"Good morning Shout, this last month has left me feeling deeply depressed in relation to my situation with family, I am in need of support, 
+ thank you, Sara."
+989,989,989,597644271,1,"Hi Shout, I am Ana I am feeling a bit sad"
+990,990,990,647882029,1,I need some help or input please
+991,991,991,062411717,1,"Hi Shout, my name is Dustin, my son Susan is causing me to feel frustrated"
+992,992,992,170482861,1,"Hi Shout, my name is Kelly, my sister Carla is causing me to feel stressed"
+993,993,993,323746408,1,"Dennis here. I am currently feeling unusually enraged. Is there any chance I could get some support, 
+ thank you."
+994,994,994,399674599,1,I need some help please
+995,995,995,098224530,1,"Sometimes I think i feel miserable, about my friends asking me questions...yeah, i would rather be playing tennis"
+996,996,996,225248223,1,"Hi Shout, this is Janet and these last few weeks has left me feeling deeply depressed in relation to my current predicament at the moment, I am in need of input,
+ thank you."
+997,997,997,691545095,1,I need some help or guidance please
+998,998,998,187267677,1,"Hey Shout, this last week has left me feeling reasonably dismal in relation to my situation at work, I am in need of advice, 
+ thank you, Tonya."
+999,999,999,590494071,1,"Hello Shout, this past week has left me feeling particularly enraged in relation to my situation at home, I am in need of help, 
+ thank you, Hayley."

@@ -1,0 +1,165 @@
+# MHI Data Anonymisation Run options config file
+
+run_as_test : False 
+
+run_export_step : True
+run_anonymisation_step : True
+
+hashids : False
+# All the run_at_local setting does is cause the script to use a local MySQL instance 
+run_at_local : False
+# 
+full_export : True
+
+# not being used anymore
+#logging_enabled : False
+
+# this is not being used
+log_level : INFO
+# possible level values are: CRITICAL/ERROR/WARNING/INFO/DEBUG/NOTSET
+
+
+use_external_name_dictionary : True
+use_db_usertable_dictionary : True
+
+
+# it is not being used anymore, it was designed to enable or disable the scrubadub library replace with identifiers.
+# replace_with_identifiers : False
+
+# scrubbing option parameters
+enable_name_scrubbing : False
+enable_url_scrubbing : False
+enable_phone_scrubbing : False
+enable_email_scrubbing : True
+
+enable_name_scrubbing2 : True
+enable_url_scrubbing2 : False
+enable_phone_scrubbing2 : True
+enable_email_scrubbing2 : True
+enable_postcode_scrubbing2 : True 
+enable_street_scrubbing2 : True
+enable_nino_scrubbing2 : True
+
+display_scrubbed_text : False
+
+scrub_mask_url : '{URL}'
+scrub_mask_phone : '{PHONE}'
+scrub_mask_name : '{NAME}'
+scrub_mask_email : '{EMAIL}'
+scrub_mask_postcode : '{POSTCODE}'
+scrub_mask_street : '{STREET}'
+scrub_mask_nino : '{NINO}'
+scrub_mask_all : '{SCRUB}'
+
+infotype_percentage : 50
+
+read_from_pickle : True
+
+# these are the old regular expressions for postcode that we used before, kept for now
+# regex_postcode : '([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)((\\s?\\s?)[0-9][A-Za-z]{1,2})'
+# regex_postcode : '(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\s)([0-9][A-Za-z]{1,2}))|(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\s){2}([0-9][A-Za-z]{1,2}))|(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)([0-9][A-Za-z]{1,2}))'
+# regex_postcode : '(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\s)([0-9][A-Za-z]{1,2}))|(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\s){2}([0-9][A-Za-z]{1,2}))'
+
+regex_postcode : '(([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\s)*([0-9][A-Za-z]{1,2}))'
+
+# not being used anymore
+# regex_postcode_deduplicator : '([A-Za-z]{1,2}[0-9]{1,2}[A-Za-z]?)(\\1)'
+
+# these are the old phone number regular expressions used before. These two were combined into the regex_phone3
+regex_phone1 : '(\+44)(\\s+)[0-9]{4}(\\s+)[0-9]{3}(\\s+)[0-9]{3}'  # 12 digits phone numbers starts with +44
+regex_phone2 : '(07)[0-9]{9}'  # 11 digits phone numbers starts with 07
+regex_phone3 : '(\+44)?(0)?7[\d(\s)?]{9,12}'
+
+regex_email : '[\w\.-]+@[\w\.-]+(\.)?\w+'  # email addresses
+
+regex_nino : '(?!BG|GB|NK|KN|TN|NT|ZZ)[A-CEGHJ-PR-TW-Z][A-CEGHJ-NPR-TW-Z](?:\s*\d{2}){3}\s*[A-D]'
+
+# home directory for the scripts
+home_dir : '/home/djbadm/src/de28MHI/MHI-platform-scrubber-master/anonymisation/'
+
+# output directories for real run
+output_dir : 's3://mhi-shout-platform-data/current/'
+raw_data_output_dir : 's3://mhi-shout-platform-raw-data/'
+#output_dir : 's3://shout-prod-confidential/current/'
+#raw_data_output_dir : 's3://shout-prod-confidential-raw/'
+
+logfile_path : '/home/djbadm/mhi-pipeline/log/datapipeline.log'
+
+# output directories for test run
+s3_bucket_credentials_test : 'mhi-secret-stash'
+
+output_dir_test : '/home/djbadm/mhi-pipeline/data_scrubbed/'
+raw_data_output_dir_test : '/home/djbadm/mhi-pipeline/rawdata/'
+
+#logfile_dir_test : '/home/bunyamin/etl_data_process_output_test/datapipeline.log'
+
+test_record_limit : 100 
+
+
+s3_bucket_credentials : 'de28-secret-stash'
+db_pword_s3_key : 'data_import_zone/db_pword'
+hash_salt_s3_key : 'data_import_zone/hash_salt'
+
+# database connection parameters for real run
+db_port : 3306
+db_host_name : "database-1-instance-1.cwzr34iu7fkk.eu-west-2.rds.amazonaws.com" 
+db_user : de28
+db_name : de28
+
+# database connection parameters for test run
+db_port_test : 3306
+# db_host_name = "prod-db.crisistextlineuk.org"
+db_host_name_test : localhost
+db_user_test : root
+db_name_test : mhidb
+
+# these are the default prefix and suffix values for scrubadub
+#infotype_prefix : {{
+#infotype_suffix : }}
+
+infotype_prefix : <
+infotype_suffix : >
+
+infotypes :
+  - NAME
+  - PHONE
+  - EMAIL
+  - URL
+
+select_tables_only : False
+select_tables : 
+ - USER   
+ - ACTOR
+
+enable_exclude_tables : True 
+exclude_tables :
+  - MESSAGE      
+
+enable_exclude_phones : False
+exclude_phone_relative_path : 'config/exclude_phones.txt'
+
+enable_exclude_urls : True
+exclude_url_relative_path : 'config/exclude_urls.txt'
+
+enable_exclude_emails : True
+exclude_email_relative_path : 'config/exclude_emails.txt'
+
+enable_exclude_words : True
+exclude_word_relative_path : 'config/exclude_words.txt'
+
+chunksize : 65536
+#chunksize : 2048
+
+enable_split_tables : True
+split_tables :
+  - MESSAGE
+
+partition_record_count : 1000000
+
+street_columns :
+  - MESSAGE.MESSAGE
+  - REPORTING_LOG_VALUE.VALUE
+  - CONVERSATION_TOPIC.VALUE
+  - CONTACT_FORM_RESPONSE.VALUE
+
+
